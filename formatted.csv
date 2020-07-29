@@ -1,0 +1,1799 @@
+﻿id,Age,State,Gender,B12 deficiency,Protein deficiency,Iron deficiency,Diet Switched
+507,81,Indiana,Male,Not selected,Not selected,Not selected,1
+504,55,South Carolina,Female,Not selected,Not selected,Not selected,
+499,61,Ohio,Female,Not selected,Not selected,Not selected,5
+494,36,North Carolina,Female,Not selected,Not selected,Not selected,
+55,54,California,Male,Not selected,Not selected,Not selected,
+62,45,California,Female,Not selected,Not selected,Not selected,Don’t know
+64,49,Tennessee,Male,Not selected,Not selected,Not selected,1
+67,72,Arkansas,Male,Not selected,Not selected,Not selected,
+72,54,Massachusetts,Female,Not selected,Yes,Not selected,2
+83,47,Pennsylvania,Male,Not selected,Not selected,Not selected,Don’t know
+92,50,Maryland,Female,Not selected,Yes,Not selected,5
+94,70,California,Female,Not selected,Not selected,Yes,Don’t know
+95,57,California,Female,Not selected,Not selected,Not selected,
+97,34,South Dakota,Female,Not selected,Not selected,Not selected,Don’t know
+98,35,Arkansas,Female,Not selected,Not selected,Not selected,
+102,56,Louisiana,Female,Not selected,Not selected,Yes,1
+114,42,North Carolina,Female,Not selected,Not selected,Yes,1
+122,66,New Mexico,Female,Not selected,Not selected,Not selected,
+148,52,California,Female,Not selected,Not selected,Not selected,1
+150,59,New York,Female,Not selected,Not selected,Not selected,5
+159,69,Pennsylvania,Female,Not selected,Not selected,Not selected,Don’t know
+166,56,California,Male,Not selected,Not selected,Not selected,5
+183,68,New Mexico,Female,Not selected,Not selected,Not selected,Don’t know
+185,47,California,Female,Not selected,Not selected,Not selected,
+200,49,Maryland,Female,Not selected,Not selected,Not selected,Don’t know
+212,46,New York,Male,Not selected,Not selected,Not selected,
+215,69,Maryland,Male,Not selected,Not selected,Not selected,
+230,68,New York,Female,Not selected,Not selected,Not selected,
+235,76,California,Female,Not selected,Not selected,Not selected,1
+236,32,Kentucky,Male,Not selected,Not selected,Not selected,1
+249,73,Florida,Female,Not selected,Not selected,Not selected,
+254,17,Florida,Female,Not selected,Not selected,Not selected,2
+265,56,Arizona,Female,Not selected,Not selected,Not selected,Don’t know
+284,57,Missouri,Female,Not selected,Not selected,Not selected,
+285,25,Texas,Female,Not selected,Not selected,Not selected,1
+294,48,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+295,66,Missouri,Female,Not selected,Not selected,Not selected,
+311,77,Michigan,Male,Not selected,Not selected,Not selected,3
+317,46,Virginia,Male,Not selected,Not selected,Not selected,Don’t know
+342,75,New Mexico,Male,Not selected,Not selected,Not selected,
+348,58,Texas,Male,Not selected,Not selected,Not selected,
+354,58,New York,Female,Not selected,Not selected,Yes,1
+359,45,North Carolina,Female,Not selected,Not selected,Not selected,1
+366,24,California,Female,Not selected,Not selected,Not selected,3
+371,45,Texas,Male,Not selected,Not selected,Not selected,1
+376,71,Oregon,Male,Not selected,Not selected,Not selected,1
+433,50,California,Female,Not selected,Not selected,Not selected,1
+435,63,Pennsylvania,Female,Not selected,Not selected,Not selected,5
+445,62,California,Female,Not selected,Not selected,Not selected,
+447,31,California,Female,Not selected,Not selected,Not selected,Don’t know
+450,61,New Jersey,Male,Not selected,Not selected,Not selected,
+456,31,California,Female,Not selected,Not selected,Not selected,1
+461,58,Washington,Female,Not selected,Not selected,Not selected,1
+462,23,Pennsylvania,Male,Not selected,Not selected,Not selected,
+471,49,Arkansas,Female,Not selected,Not selected,Not selected,5
+479,40,New York,Female,Not selected,Not selected,Not selected,3
+510,50,Massachusetts,Female,Not selected,Not selected,Not selected,
+520,47,Texas,Female,Not selected,Not selected,Not selected,
+538,26,Florida,Female,Not selected,Not selected,Not selected,
+540,34,Georgia,Male,Not selected,Not selected,Not selected,
+552,53,California,Female,Not selected,Not selected,Not selected,
+555,67,Connecticut,Male,Not selected,Not selected,Not selected,
+559,52,Virginia,Female,Not selected,Not selected,Not selected,
+564,46,Illinois,Female,Not selected,Not selected,Yes,1
+568,46,New Jersey,Male,Not selected,Not selected,Not selected,
+571,65,Louisiana,Female,Not selected,Not selected,Not selected,
+577,75,Georgia,Male,Not selected,Not selected,Not selected,Don’t know
+580,37,California,Male,Not selected,Not selected,Not selected,1
+597,60,Missouri,Female,Not selected,Not selected,Not selected,Don’t know
+601,30,Illinois,Female,Not selected,Not selected,Not selected,1
+603,72,Nevada,Female,Not selected,Not selected,Not selected,
+611,58,California,Male,Not selected,Not selected,Not selected,
+614,61,New York,Male,Not selected,Not selected,Not selected,Don’t know
+616,50,Ohio,Female,Not selected,Yes,Yes,3
+620,61,Tennessee,Female,Not selected,Not selected,Not selected,
+622,62,Massachusetts,Male,Not selected,Not selected,Not selected,1
+626,29,New York,Male,Not selected,Not selected,Not selected,2
+630,56,Wisconsin,Male,Not selected,Not selected,Not selected,1
+632,53,Nebraska,Female,Not selected,Not selected,Not selected,
+641,67,Massachusetts,Female,Not selected,Not selected,Not selected,1
+643,68,Kansas,Female,Not selected,Not selected,Not selected,1
+645,58,Colorado,Female,Not selected,Not selected,Not selected,1
+647,46,New Jersey,Male,Not selected,Not selected,Not selected,
+651,57,Ohio,Female,Not selected,Not selected,Not selected,1
+652,37,California,Female,Not selected,Not selected,Not selected,1
+661,44,Wisconsin,Male,Not selected,Not selected,Not selected,1
+672,32,North Carolina,Male,Not selected,Not selected,Not selected,
+675,62,Washington,Female,Not selected,Not selected,Not selected,1
+682,32,Virginia,Male,Not selected,Not selected,Not selected,
+691,63,Ohio,Female,Not selected,Not selected,Not selected,
+700,71,California,Female,Not selected,Not selected,Not selected,Don’t know
+709,40,Pennsylvania,Female,Not selected,Not selected,Not selected,2
+711,44,Ohio,Male,Not selected,Not selected,Not selected,1
+717,66,South Carolina,Female,Not selected,Not selected,Not selected,
+720,58,Wisconsin,Male,Not selected,Not selected,Not selected,
+725,73,Florida,Female,Not selected,Not selected,Not selected,2
+730,25,Texas,Male,Not selected,Not selected,Not selected,
+734,20,California,Female,Not selected,Not selected,Not selected,
+744,53,Virginia,Female,Not selected,Not selected,Not selected,3
+767,71,South Carolina,Female,Not selected,Not selected,Not selected,
+768,45,Texas,Female,Not selected,Not selected,Not selected,2
+773,54,California,Male,Not selected,Not selected,Not selected,
+779,62,Ohio,Male,Not selected,Not selected,Not selected,5
+788,29,North Carolina,Female,Not selected,Not selected,Not selected,2
+789,60,Florida,Male,Not selected,Not selected,Not selected,3
+795,49,California,Male,Not selected,Not selected,Not selected,
+796,36,New York,Female,Not selected,Not selected,Not selected,
+797,67,Virginia,Female,Not selected,Not selected,Not selected,1
+798,43,Michigan,Male,Not selected,Not selected,Not selected,
+800,30,Connecticut,Female,Not selected,Not selected,Yes,1
+819,43,California,Male,Not selected,Not selected,Not selected,1
+822,35,Pennsylvania,Male,Not selected,Not selected,Not selected,1
+839,36,California,Female,Not selected,Not selected,Not selected,
+842,96,Iowa,Male,Not selected,Not selected,Not selected,Don’t know
+847,65,California,Male,Not selected,Not selected,Not selected,1
+848,35,Ohio,Female,Not selected,Not selected,Not selected,
+854,46,Washington,Female,Not selected,Not selected,Not selected,1
+867,24,Illinois,Female,Not selected,Not selected,Not selected,
+868,55,Pennsylvania,Female,Not selected,Not selected,Not selected,
+874,33,Michigan,Female,Not selected,Not selected,Not selected,
+885,47,New Hampshire,Female,Not selected,Not selected,Not selected,
+886,61,Massachusetts,Male,Not selected,Not selected,Not selected,1
+887,59,California,Female,Not selected,Not selected,Not selected,
+894,57,Montana,Male,Not selected,Not selected,Not selected,Don’t know
+900,29,Virginia,Female,Not selected,Not selected,Not selected,Don’t know
+901,60,Pennsylvania,Female,Not selected,Not selected,Not selected,5
+907,26,Pennsylvania,Female,Not selected,Not selected,Not selected,2
+920,76,New York,Female,Not selected,Not selected,Not selected,
+927,43,Delaware,Female,Not selected,Yes,Not selected,5
+930,56,Texas,Female,Not selected,Not selected,Not selected,2
+931,53,California,Female,Not selected,Not selected,Not selected,
+962,58,California,Female,Not selected,Not selected,Not selected,1
+966,41,Connecticut,Male,Not selected,Not selected,Not selected,Don’t know
+973,48,Oregon,Male,Not selected,Not selected,Not selected,
+975,69,Florida,Male,Not selected,Not selected,Not selected,3
+977,56,New Jersey,Female,Not selected,Not selected,Not selected,
+996,44,California,Female,Not selected,Not selected,Not selected,1
+1006,56,Texas,Female,Not selected,Not selected,Not selected,
+1007,65,Louisiana,Male,Not selected,Not selected,Not selected,3
+1018,60,Illinois,Male,Not selected,Not selected,Not selected,2
+1019,22,New York,Male,Not selected,Not selected,Not selected,1
+1021,39,Georgia,Female,Not selected,Not selected,Not selected,
+1029,68,California,Male,Not selected,Not selected,Not selected,2
+1031,45,California,Male,Not selected,Not selected,Not selected,1
+1047,70,Michigan,Female,Not selected,Not selected,Not selected,5
+1049,65,Oregon,Male,Not selected,Not selected,Not selected,
+1066,34,Ohio,Female,Not selected,Not selected,Not selected,1
+1075,74,Georgia,Male,Not selected,Not selected,Not selected,
+1096,87,Virginia,Male,Not selected,Not selected,Not selected,2
+1100,41,California,Male,Not selected,Not selected,Not selected,
+1106,27,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+1110,34,Wisconsin,Female,Not selected,Not selected,Not selected,1
+1113,48,Washington,Female,Not selected,Yes,Yes,1
+1129,61,Washington,Male,Not selected,Not selected,Not selected,3
+1133,30,Rhode Island,Male,Not selected,Not selected,Not selected,
+1143,38,West Virginia,Female,Not selected,Not selected,Not selected,
+1145,44,Wisconsin,Female,Not selected,Yes,Not selected,Don’t know
+1149,26,Massachusetts,Female,Not selected,Not selected,Yes,1
+1154,63,New Jersey,Male,Not selected,Not selected,Not selected,
+1158,61,Colorado,Male,Not selected,Not selected,Not selected,1
+1161,44,California,Male,Not selected,Not selected,Not selected,1
+1163,42,Illinois,Male,Not selected,Not selected,Not selected,1
+1169,44,California,Male,Not selected,Not selected,Not selected,
+1172,48,California,Male,Not selected,Not selected,Not selected,
+1175,61,Texas,Female,Not selected,Not selected,Not selected,
+1181,20,Michigan,Female,Not selected,Not selected,Not selected,
+1182,37,Minnesota,Female,Not selected,Not selected,Not selected,2
+1190,35,Washington,Female,Not selected,Not selected,Not selected,2
+1194,38,California,Female,Not selected,Not selected,Not selected,2
+1212,38,Oregon,Female,Not selected,Not selected,Not selected,
+1213,27,Massachusetts,Female,Not selected,Not selected,Not selected,2
+1218,44,Oregon,Female,Not selected,Not selected,Not selected,
+1220,40,California,Male,Not selected,Not selected,Not selected,
+1221,33,Illinois,Female,Not selected,Not selected,Not selected,
+1228,25,Illinois,Female,Not selected,Not selected,Not selected,2
+1238,47,Washington,Female,Not selected,Not selected,Not selected,1
+1242,44,California,Female,Yes,Not selected,Not selected,1
+1250,54,Illinois,Male,Not selected,Not selected,Not selected,1
+1254,43,California,Female,Not selected,Not selected,Not selected,5
+1259,37,California,Female,Not selected,Not selected,Not selected,1
+1261,34,Wisconsin,Female,Not selected,Not selected,Not selected,3
+1262,38,Oregon,Male,Not selected,Not selected,Not selected,1
+1264,35,Idaho,Female,Not selected,Not selected,Yes,2
+1267,42,Florida,Female,Not selected,Not selected,Not selected,
+1269,37,Ohio,Female,Not selected,Not selected,Yes,3
+1273,47,Wisconsin,Female,Not selected,Not selected,Not selected,Don’t know
+1276,46,Washington,Male,Not selected,Not selected,Not selected,
+1279,47,California,Female,Not selected,Not selected,Not selected,
+1285,28,California,Male,Not selected,Not selected,Not selected,3
+1286,41,Oregon,Female,Not selected,Not selected,Not selected,Don’t know
+1288,39,Ohio,Female,Not selected,Not selected,Not selected,1
+1298,38,Arizona,Male,Not selected,Not selected,Not selected,
+1300,38,California,Female,Not selected,Not selected,Not selected,1
+1305,39,California,Female,Not selected,Not selected,Not selected,
+1319,24,California,Male,Not selected,Not selected,Not selected,Don’t know
+1320,55,New York,Male,Not selected,Not selected,Not selected,
+1321,44,New Jersey,Male,Not selected,Not selected,Not selected,
+1324,25,Florida,Male,Not selected,Not selected,Not selected,Don’t know
+1326,29,Illinois,Female,Not selected,Not selected,Not selected,Don’t know
+1335,32,Texas,Female,Not selected,Not selected,Not selected,1
+1344,25,Nebraska,Female,Not selected,Not selected,Not selected,
+1346,37,Florida,Male,Not selected,Not selected,Not selected,3
+1351,29,Colorado,Female,Not selected,Not selected,Not selected,1
+1352,31,Arizona,Female,Not selected,Not selected,Not selected,2
+1363,34,Missouri,Female,Not selected,Not selected,Not selected,1
+1378,48,New York,Female,Not selected,Not selected,Not selected,
+1384,62,Georgia,Male,Not selected,Not selected,Not selected,
+1387,39,New York,Male,Not selected,Not selected,Not selected,
+1389,44,Florida,Female,Not selected,Not selected,Not selected,1
+1393,36,Georgia,Female,Not selected,Not selected,Not selected,
+1395,47,Washington,Female,Not selected,Not selected,Not selected,
+1403,32,New York,Male,Not selected,Not selected,Not selected,1
+1408,62,Georgia,Female,Not selected,Not selected,Not selected,
+1410,43,Florida,Female,Not selected,Not selected,Not selected,
+1421,56,Georgia,Female,Not selected,Not selected,Not selected,
+1435,22,Texas,Female,Not selected,Not selected,Not selected,1
+1451,37,New Jersey,Female,Not selected,Not selected,Not selected,
+1452,39,North Carolina,Male,Not selected,Not selected,Not selected,
+1453,45,Oklahoma,Female,Not selected,Not selected,Not selected,
+1454,37,Georgia,Male,Not selected,Not selected,Not selected,3
+1456,42,Massachusetts,Female,Not selected,Not selected,Not selected,1
+1457,73,Georgia,Male,Not selected,Not selected,Not selected,
+1461,30,North Carolina,Male,Not selected,Not selected,Not selected,
+1462,25,New York,Male,Not selected,Not selected,Not selected,1
+1463,33,Florida,Male,Not selected,Not selected,Not selected,
+1466,41,Iowa,Female,Not selected,Yes,Yes,4
+1467,35,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+1471,70,New York,Male,Not selected,Not selected,Not selected,
+1478,43,Missouri,Female,Not selected,Not selected,Not selected,1
+1480,33,Florida,Female,Not selected,Not selected,Not selected,
+1482,31,Indiana,Female,Not selected,Not selected,Not selected,1
+1497,28,Kansas,Female,Not selected,Not selected,Not selected,
+1503,36,New Jersey,Female,Not selected,Not selected,Not selected,
+1506,45,Washington,Female,Not selected,Not selected,Not selected,3
+1511,27,Texas,Female,Not selected,Not selected,Yes,1
+1513,33,Washington,Female,Not selected,Not selected,Not selected,
+1524,61,Minnesota,Male,Not selected,Not selected,Not selected,1
+1526,36,New Hampshire,Female,Not selected,Not selected,Not selected,1
+1528,66,California,Female,Not selected,Not selected,Not selected,Don’t know
+1533,27,Pennsylvania,Female,Not selected,Not selected,Not selected,
+1535,38,New York,Male,Not selected,Not selected,Not selected,5
+1536,27,Ohio,Female,Not selected,Not selected,Not selected,2
+1542,38,New Hampshire,Male,Not selected,Not selected,Not selected,
+1546,33,Missouri,Male,Not selected,Not selected,Not selected,2
+1547,26,Arizona,Female,Not selected,Not selected,Not selected,1
+1549,38,California,Female,Not selected,Not selected,Not selected,
+1571,29,Utah,Female,Not selected,Not selected,Not selected,1
+1573,36,Oregon,Female,Not selected,Not selected,Not selected,1
+1575,64,Massachusetts,Male,Not selected,Not selected,Not selected,1
+1583,48,New York,Female,Not selected,Not selected,Not selected,2
+1601,28,Minnesota,Female,Not selected,Not selected,Not selected,2
+1620,71,California,Male,Not selected,Yes,Not selected,1
+1627,42,Georgia,Female,Not selected,Not selected,Not selected,
+1630,61,Washington,Female,Not selected,Not selected,Not selected,Don’t know
+1641,67,Maryland,Female,Not selected,Not selected,Not selected,
+1648,28,West Virginia,Male,Not selected,Not selected,Not selected,
+1661,59,Colorado,Female,Not selected,Yes,Yes,5
+1665,69,New York,Male,Not selected,Not selected,Not selected,1
+1668,63,Pennsylvania,Female,Not selected,Not selected,Not selected,Don’t know
+1685,60,California,Male,Not selected,Not selected,Not selected,
+1688,70,California,Female,Not selected,Not selected,Not selected,1
+1705,63,Michigan,Male,Not selected,Not selected,Not selected,1
+1708,41,Indiana,Female,Not selected,Not selected,Not selected,2
+1711,55,Missouri,Male,Not selected,Not selected,Not selected,Don’t know
+1716,62,Illinois,Female,Not selected,Not selected,Not selected,
+1722,61,California,Female,Not selected,Yes,Not selected,2
+1728,79,Florida,Female,Not selected,Not selected,Not selected,1
+1743,69,Maryland,Female,Not selected,Not selected,Yes,1
+1748,37,Washington,Female,Not selected,Not selected,Not selected,3
+1749,67,Texas,Female,Not selected,Not selected,Not selected,Don’t know
+1755,63,New Jersey,Female,Not selected,Not selected,Not selected,2
+1761,30,Oklahoma,Female,Not selected,Yes,Yes,2
+1768,34,Illinois,Female,Not selected,Not selected,Not selected,1
+1770,71,California,Female,Not selected,Not selected,Not selected,3
+1775,66,Texas,Female,Not selected,Yes,Yes,1
+1781,59,Michigan,Female,Not selected,Not selected,Not selected,
+1793,54,Maryland,Male,Not selected,Not selected,Not selected,
+1796,59,Michigan,Female,Not selected,Not selected,Not selected,
+1797,77,Tennessee,Male,Not selected,Not selected,Not selected,
+1801,64,Oregon,Female,Not selected,Not selected,Not selected,1
+1804,62,Texas,Male,Not selected,Not selected,Not selected,
+1808,34,Illinois,Female,Not selected,Not selected,Not selected,1
+1809,54,Maryland,Male,Not selected,Not selected,Not selected,
+1812,72,Pennsylvania,Male,Not selected,Not selected,Not selected,
+1817,55,Kansas,Female,Not selected,Yes,Not selected,4
+1823,49,California,Female,Not selected,Not selected,Not selected,
+1830,65,Ohio,Male,Not selected,Not selected,Not selected,
+1831,66,Texas,Female,Not selected,Not selected,Yes,1
+1833,60,California,Male,Not selected,Not selected,Not selected,
+1841,36,Florida,Female,Not selected,Not selected,Not selected,
+1855,64,Wisconsin,Female,Not selected,Not selected,Not selected,1
+1857,52,Michigan,Female,Not selected,Not selected,Not selected,1
+1863,58,New Jersey,Male,Not selected,Not selected,Not selected,
+1879,74,Oregon,Female,Not selected,Not selected,Not selected,1
+1888,59,Connecticut,Female,Not selected,Not selected,Not selected,Don’t know
+1890,28,California,Female,Not selected,Not selected,Yes,1
+1894,51,Pennsylvania,Female,Not selected,Not selected,Not selected,5
+1914,57,California,Female,Not selected,Not selected,Not selected,
+1915,73,Arizona,Female,Not selected,Not selected,Not selected,1
+1925,60,New York,Male,Not selected,Not selected,Not selected,
+1926,39,New York,Female,Not selected,Not selected,Not selected,1
+1929,60,Georgia,Female,Not selected,Not selected,Not selected,1
+1939,64,Iowa,Female,Not selected,Not selected,Not selected,
+1941,45,Georgia,Female,Not selected,Yes,Not selected,1
+1947,32,Virginia,Male,Not selected,Not selected,Not selected,
+1959,64,Wisconsin,Female,Not selected,Not selected,Not selected,1
+1968,42,Michigan,Female,Not selected,Not selected,Not selected,1
+1971,38,New York,Female,Not selected,Not selected,Not selected,1
+1984,62,Nebraska,Female,Not selected,Not selected,Not selected,
+1987,62,California,Female,Not selected,Not selected,Not selected,
+1992,68,Arizona,Female,Not selected,Not selected,Not selected,Don’t know
+2020,77,Arizona,Female,Not selected,Not selected,Not selected,
+2024,45,California,Male,Not selected,Not selected,Not selected,1
+2027,66,Vermont,Female,Not selected,Not selected,Not selected,5
+2049,65,California,Male,Not selected,Not selected,Not selected,
+2063,55,Massachusetts,Male,Not selected,Not selected,Not selected,Don’t know
+2064,63,Tennessee,Male,Not selected,Not selected,Not selected,Don’t know
+2066,53,Florida,Female,Not selected,Not selected,Not selected,1
+2072,35,Missouri,Female,Not selected,Not selected,Not selected,
+2079,52,New Jersey,Male,Not selected,Not selected,Not selected,5
+2086,64,Oregon,Female,Not selected,Not selected,Not selected,1
+2091,66,New Mexico,Female,Not selected,Not selected,Not selected,1
+2095,66,New Mexico,Male,Not selected,Not selected,Not selected,
+2100,70,New York,Female,Not selected,Not selected,Not selected,1
+2105,71,Maryland,Female,Not selected,Not selected,Not selected,2
+2106,88,Indiana,Female,Not selected,Not selected,Not selected,1
+2120,92,New Jersey,Male,Not selected,Not selected,Not selected,
+2121,33,Pennsylvania,Male,Not selected,Not selected,Not selected,2
+2130,67,Illinois,Male,Not selected,Yes,Yes,1
+2134,66,Missouri,Female,Not selected,Not selected,Not selected,
+2156,77,Massachusetts,Female,Not selected,Not selected,Not selected,
+2168,49,California,Female,Not selected,Not selected,Not selected,1
+2177,31,Alaska,Female,Not selected,Not selected,Not selected,Don’t know
+2183,25,Massachusetts,Female,Not selected,Not selected,Not selected,1
+2189,32,Colorado,Female,Not selected,Not selected,Not selected,
+2198,60,South Dakota,Female,Not selected,Not selected,Not selected,
+2203,56,Illinois,Male,Not selected,Not selected,Not selected,
+2211,60,Pennsylvania,Female,Not selected,Not selected,Not selected,
+2214,65,Tennessee,Female,Not selected,Not selected,Not selected,
+2222,21,Virginia,Female,Not selected,Not selected,Yes,1
+2223,54,Washington,Female,Not selected,Not selected,Yes,2
+2224,67,Pennsylvania,Male,Not selected,Not selected,Not selected,
+2229,70,Pennsylvania,Male,Not selected,Not selected,Not selected,
+2246,67,Florida,Female,Not selected,Not selected,Not selected,Don’t know
+2256,56,Alabama,Male,Not selected,Not selected,Not selected,1
+2260,67,New York,Male,Not selected,Not selected,Not selected,Don’t know
+2265,60,Oklahoma,Female,Not selected,Yes,Not selected,2
+2266,40,New York,Female,Not selected,Not selected,Not selected,1
+2281,68,Pennsylvania,Male,Not selected,Not selected,Not selected,1
+2289,67,Illinois,Female,Not selected,Not selected,Not selected,2
+2299,85,Arizona,Male,Not selected,Not selected,Not selected,
+2302,63,Ohio,Female,Not selected,Not selected,Not selected,Don’t know
+2314,76,Texas,Male,Not selected,Not selected,Not selected,1
+2332,70,Florida,Male,Not selected,Not selected,Not selected,3
+2344,66,Washington,Female,Not selected,Not selected,Not selected,
+2347,67,Nevada,Female,Not selected,Not selected,Not selected,1
+2349,71,South Carolina,Male,Not selected,Not selected,Not selected,1
+2360,22,Florida,Female,Not selected,Yes,Not selected,2
+2392,61,New York,Female,Not selected,Not selected,Not selected,
+2397,63,Pennsylvania,Male,Not selected,Not selected,Not selected,1
+2402,64,Indiana,Male,Not selected,Not selected,Not selected,
+2403,49,Minnesota,Female,Not selected,Not selected,Not selected,
+2406,55,Wisconsin,Female,Not selected,Not selected,Not selected,Don’t know
+2410,39,California,Female,Not selected,Not selected,Not selected,Don’t know
+2417,31,Florida,Female,Not selected,Not selected,Not selected,
+2418,23,Ohio,Female,Not selected,Not selected,Not selected,1
+2419,42,South Dakota,Female,Not selected,Not selected,Yes,1
+2421,60,Virginia,Female,Not selected,Not selected,Not selected,1
+2425,69,California,Female,Not selected,Not selected,Not selected,
+2443,67,California,Male,Not selected,Not selected,Not selected,
+2444,32,Colorado,Female,Not selected,Not selected,Not selected,
+2457,58,Pennsylvania,Male,Not selected,Not selected,Not selected,
+2466,43,California,Female,Not selected,Not selected,Not selected,4
+2475,53,Alabama,Male,Not selected,Not selected,Not selected,1
+2476,36,Kansas,Female,Not selected,Not selected,Not selected,1
+2480,66,New York,Male,Not selected,Not selected,Not selected,
+2481,73,Washington,Male,Not selected,Yes,Not selected,1
+2485,57,Washington,Female,Not selected,Not selected,Not selected,1
+2496,57,Washington,Female,Not selected,Not selected,Not selected,Don’t know
+2497,71,Maryland,Female,Not selected,Not selected,Not selected,1
+2502,63,New York,Male,Not selected,Not selected,Not selected,1
+2505,67,Michigan,Female,Not selected,Not selected,Yes,2
+2507,72,Oregon,Male,Not selected,Not selected,Not selected,Don’t know
+2513,77,Virginia,Female,Not selected,Not selected,Yes,1
+2518,50,Florida,Male,Not selected,Not selected,Not selected,1
+2524,55,New York,Male,Not selected,Not selected,Not selected,
+2531,42,California,Female,Not selected,Not selected,Not selected,2
+2539,44,Louisiana,Female,Not selected,Not selected,Not selected,
+2540,69,Washington,Male,Not selected,Not selected,Not selected,1
+2554,23,Florida,Female,Not selected,Not selected,Not selected,
+2556,38,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+2558,62,Florida,Female,Not selected,Not selected,Not selected,1
+2565,44,Maryland,Female,Not selected,Not selected,Not selected,Don’t know
+2569,75,California,Male,Not selected,Not selected,Not selected,
+2572,44,Nevada,Female,Not selected,Not selected,Not selected,
+2589,63,New York,Female,Not selected,Yes,Not selected,1
+2607,57,Texas,Male,Not selected,Not selected,Not selected,Don’t know
+2612,65,Pennsylvania,Female,Not selected,Not selected,Not selected,
+2617,57,Missouri,Male,Not selected,Not selected,Not selected,
+2627,63,Idaho,Female,Not selected,Not selected,Not selected,2
+2629,68,Massachusetts,Female,Not selected,Not selected,Not selected,5
+2636,63,Iowa,Male,Not selected,Not selected,Not selected,
+2645,70,Alabama,Female,Not selected,Not selected,Not selected,
+2660,57,California,Male,Not selected,Not selected,Not selected,1
+2666,61,Florida,Male,Not selected,Not selected,Not selected,Don’t know
+2685,67,New Mexico,Male,Not selected,Yes,Not selected,1
+2686,58,California,Female,Not selected,Not selected,Not selected,1
+2707,51,Kansas,Female,Not selected,Not selected,Not selected,
+2712,38,Minnesota,Female,Not selected,Not selected,Not selected,
+2723,25,Pennsylvania,Female,Not selected,Not selected,Not selected,
+2727,54,Texas,Male,Not selected,Yes,Not selected,1
+2746,68,Arkansas,Female,Not selected,Not selected,Not selected,
+2762,35,Utah,Female,Not selected,Not selected,Not selected,3
+2764,46,Pennsylvania,Female,Not selected,Not selected,Not selected,
+2770,65,Virginia,Female,Not selected,Not selected,Not selected,1
+2780,64,Minnesota,Female,Not selected,Not selected,Not selected,1
+2783,58,Florida,Male,Not selected,Not selected,Not selected,
+2791,62,Connecticut,Female,Not selected,Not selected,Not selected,Don’t know
+2793,63,California,Female,Not selected,Not selected,Not selected,2
+2803,45,Oregon,Female,Not selected,Not selected,Not selected,1
+2806,76,California,Female,Not selected,Not selected,Not selected,Don’t know
+2817,59,North Carolina,Female,Not selected,Not selected,Not selected,1
+2819,67,Georgia,Male,Not selected,Not selected,Not selected,1
+2823,45,Connecticut,Female,Not selected,Not selected,Not selected,1
+2829,61,New York,Female,Not selected,Not selected,Not selected,1
+2840,59,New York,Male,Not selected,Not selected,Not selected,
+2849,41,California,Female,Not selected,Not selected,Not selected,5
+2850,59,Minnesota,Male,Not selected,Not selected,Not selected,
+2862,62,Indiana,Female,Not selected,Not selected,Yes,1
+2867,52,Maine,Female,Not selected,Not selected,Not selected,
+2885,59,Wisconsin,Female,Not selected,Not selected,Not selected,1
+2890,73,North Carolina,Female,Not selected,Not selected,Not selected,
+2892,67,Louisiana,Male,Not selected,Not selected,Not selected,
+2914,53,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+2916,39,Ohio,Female,Not selected,Not selected,Not selected,1
+2926,49,Oklahoma,Male,Not selected,Not selected,Not selected,
+2928,76,Massachusetts,Female,Not selected,Not selected,Not selected,5
+2932,72,Texas,Male,Not selected,Not selected,Not selected,
+2935,74,Washington,Male,Not selected,Not selected,Not selected,1
+2949,30,Illinois,Female,Not selected,Not selected,Not selected,
+2961,48,Tennessee,Female,Not selected,Not selected,Not selected,1
+2966,75,Tennessee,Female,Not selected,Not selected,Not selected,2
+2969,86,Wisconsin,Male,Not selected,Not selected,Not selected,
+2971,60,Georgia,Female,Not selected,Not selected,Not selected,Don’t know
+2977,42,Washington,Female,Not selected,Not selected,Not selected,1
+2978,73,Arizona,Female,Not selected,Not selected,Not selected,
+2980,77,Arizona,Female,Not selected,Yes,Not selected,1
+2995,63,Arizona,Female,Not selected,Not selected,Not selected,
+3000,59,North Carolina,Female,Not selected,Not selected,Yes,2
+3001,53,California,Female,Not selected,Not selected,Not selected,1
+3006,49,Michigan,Female,Not selected,Not selected,Not selected,1
+3009,63,Pennsylvania,Male,Not selected,Not selected,Not selected,
+3013,42,Michigan,Female,Not selected,Yes,Not selected,2
+3014,25,Georgia,Female,Not selected,Not selected,Yes,1
+3029,61,Texas,Female,Not selected,Not selected,Not selected,
+3035,45,Wisconsin,Male,Not selected,Not selected,Not selected,
+3038,82,New Hampshire,Female,Not selected,Not selected,Not selected,
+3039,43,California,Female,Not selected,Not selected,Not selected,
+3042,40,Florida,Female,Not selected,Not selected,Yes,2
+3051,71,Maine,Female,Not selected,Not selected,Not selected,1
+3060,86,Michigan,Male,Not selected,Not selected,Not selected,
+3065,50,Tennessee,Female,Not selected,Not selected,Not selected,
+3097,53,Florida,Female,Not selected,Not selected,Not selected,
+3107,61,Virginia,Female,Not selected,Not selected,Not selected,
+3114,47,California,Female,Not selected,Not selected,Not selected,Don’t know
+3119,69,Oregon,Male,Not selected,Not selected,Not selected,
+3142,31,Missouri,Female,Not selected,Not selected,Not selected,
+3143,25,California,Female,Not selected,Not selected,Not selected,
+3144,42,California,Female,Not selected,Not selected,Not selected,
+3150,59,Massachusetts,Female,Not selected,Not selected,Not selected,
+3169,54,Washington,Female,Not selected,Not selected,Not selected,
+3175,61,North Carolina,Female,Not selected,Not selected,Not selected,1
+3178,52,Hawaii,Female,Not selected,Not selected,Not selected,1
+3183,41,Nevada,Male,Not selected,Not selected,Not selected,1
+3209,36,Maryland,Female,Not selected,Not selected,Not selected,
+3214,35,New York,Male,Not selected,Not selected,Not selected,
+3222,63,Tennessee,Male,Not selected,Not selected,Not selected,5
+3226,67,Florida,Female,Not selected,Not selected,Not selected,Don’t know
+3234,66,Pennsylvania,Female,Not selected,Not selected,Not selected,
+3238,55,Kansas,Male,Not selected,Yes,Not selected,2
+3247,51,Wisconsin,Female,Not selected,Not selected,Not selected,Don’t know
+3249,29,Kentucky,Female,Not selected,Not selected,Not selected,
+3278,68,California,Female,Not selected,Not selected,Not selected,3
+3283,64,Indiana,Female,Not selected,Not selected,Not selected,
+3291,40,Colorado,Female,Not selected,Not selected,Not selected,1
+3293,37,Michigan,Female,Not selected,Not selected,Not selected,1
+3299,52,California,Male,Not selected,Not selected,Not selected,
+3307,44,California,Female,Not selected,Not selected,Not selected,1
+3309,40,California,Female,Not selected,Not selected,Not selected,3
+3323,57,Virginia,Female,Not selected,Not selected,Not selected,1
+3326,50,South Carolina,Female,Not selected,Not selected,Not selected,1
+3340,77,New York,Male,Not selected,Not selected,Not selected,
+3367,48,New York,Male,Not selected,Not selected,Not selected,2
+3370,46,New York,Male,Not selected,Not selected,Not selected,
+3392,54,California,Female,Not selected,Not selected,Not selected,
+3400,67,Michigan,Female,Not selected,Not selected,Not selected,
+3401,38,Pennsylvania,Female,Not selected,Not selected,Not selected,
+3416,32,California,Female,Not selected,Not selected,Not selected,1
+3427,27,Rhode Island,Female,Not selected,Not selected,Not selected,
+3435,51,Minnesota,Male,Not selected,Not selected,Not selected,
+3443,39,Florida,Male,Not selected,Yes,Not selected,2
+3449,42,Oregon,Female,Not selected,Not selected,Not selected,3
+3452,33,New York,Male,Not selected,Not selected,Not selected,
+3462,44,Florida,Female,Not selected,Not selected,Not selected,2
+3465,56,Oregon,Female,Not selected,Not selected,Not selected,1
+3471,49,Wisconsin,Female,Not selected,Not selected,Not selected,Don’t know
+3483,61,Texas,Male,Not selected,Not selected,Not selected,5
+3499,62,Nebraska,Male,Not selected,Not selected,Not selected,Don’t know
+3504,74,Maine,Female,Not selected,Not selected,Not selected,
+3511,66,New York,Female,Not selected,Not selected,Not selected,
+3521,26,Pennsylvania,Female,Not selected,Not selected,Not selected,
+3524,58,Connecticut,Female,Not selected,Not selected,Not selected,1
+3531,70,Ohio,Female,Not selected,Not selected,Not selected,
+3535,52,Maryland,Female,Not selected,Not selected,Not selected,2
+3539,61,Maryland,Male,Not selected,Not selected,Not selected,1
+3544,68,North Dakota,Female,Not selected,Not selected,Not selected,
+3559,61,Massachusetts,Female,Not selected,Not selected,Not selected,
+3562,65,Tennessee,Female,Not selected,Not selected,Not selected,1
+3563,56,Florida,Female,Not selected,Not selected,Not selected,1
+3596,37,Virginia,Female,Not selected,Not selected,Not selected,Don’t know
+3623,66,California,Female,Not selected,Not selected,Not selected,1
+3630,80,New York,Female,Not selected,Not selected,Not selected,1
+3636,70,West Virginia,Male,Not selected,Not selected,Not selected,
+3649,69,Arizona,Female,Not selected,Not selected,Not selected,
+3650,66,California,Male,Not selected,Not selected,Not selected,1
+3659,39,Illinois,Female,Not selected,Yes,Yes,2
+3660,71,Nebraska,Male,Not selected,Not selected,Not selected,1
+3664,55,Wisconsin,Male,Not selected,Not selected,Not selected,
+3685,80,Tennessee,Female,Not selected,Not selected,Not selected,
+3688,48,California,Male,Not selected,Not selected,Not selected,1
+3693,34,Illinois,Female,Not selected,Not selected,Not selected,1
+3710,43,Mississippi,Female,Not selected,Not selected,Not selected,5
+3713,59,Georgia,Female,Not selected,Not selected,Not selected,
+3733,43,Ohio,Female,Not selected,Not selected,Not selected,3
+3737,71,Virginia,Male,Not selected,Not selected,Not selected,1
+3763,55,Kansas,Female,Not selected,Not selected,Yes,1
+3778,28,Virginia,Female,Not selected,Not selected,Yes,2
+3791,72,Illinois,Female,Not selected,Not selected,Not selected,
+3799,50,Massachusetts,Male,Not selected,Not selected,Not selected,
+3810,75,Washington,Male,Not selected,Yes,Not selected,1
+3812,42,South Dakota,Male,Not selected,Not selected,Not selected,1
+3826,39,Michigan,Female,Not selected,Not selected,Not selected,
+3827,45,Massachusetts,Female,Not selected,Not selected,Not selected,Don’t know
+3846,37,New York,Male,Not selected,Not selected,Not selected,1
+3847,77,Texas,Female,Not selected,Not selected,Not selected,
+3850,48,Ohio,Male,Not selected,Not selected,Not selected,1
+3851,60,Indiana,Female,Not selected,Yes,Not selected,3
+3852,54,Indiana,Female,Not selected,Not selected,Not selected,1
+3854,36,Florida,Male,Not selected,Not selected,Not selected,
+3855,44,Virginia,Female,Not selected,Not selected,Not selected,1
+3864,71,Pennsylvania,Female,Not selected,Not selected,Not selected,
+3867,59,California,Male,Not selected,Not selected,Not selected,
+3868,36,Georgia,Female,Not selected,Not selected,Not selected,2
+3869,68,New York,Female,Not selected,Not selected,Not selected,1
+3884,33,California,Male,Not selected,Not selected,Not selected,1
+3893,28,New York,Female,Not selected,Not selected,Not selected,
+3897,67,Tennessee,Female,Not selected,Not selected,Not selected,Don’t know
+3898,54,Wisconsin,Female,Not selected,Not selected,Not selected,2
+3903,55,Missouri,Female,Not selected,Not selected,Not selected,
+3909,32,Ohio,Male,Not selected,Not selected,Not selected,
+3910,59,Texas,Female,Not selected,Not selected,Not selected,
+3915,54,Texas,Male,Not selected,Not selected,Not selected,Don’t know
+3925,63,Texas,Female,Not selected,Not selected,Not selected,1
+3934,71,Minnesota,Female,Not selected,Not selected,Not selected,
+3942,61,California,Female,Not selected,Not selected,Not selected,2
+3954,71,Massachusetts,Female,Not selected,Not selected,Not selected,1
+3960,62,New Jersey,Female,Not selected,Not selected,Not selected,Don’t know
+3964,40,Wisconsin,Female,Not selected,Not selected,Not selected,1
+3984,55,Pennsylvania,Male,Not selected,Yes,Not selected,1
+3978,49,Michigan,Female,Not selected,Not selected,Not selected,2
+3981,46,Wisconsin,Female,Not selected,Not selected,Not selected,1
+3995,64,Wisconsin,Male,Not selected,Not selected,Not selected,Don’t know
+3998,53,California,Female,Not selected,Not selected,Not selected,
+3999,63,California,Female,Not selected,Not selected,Not selected,1
+4004,70,Massachusetts,Female,Not selected,Not selected,Not selected,Don’t know
+4014,33,Tennessee,Female,Not selected,Not selected,Not selected,1
+4018,64,New York,Female,Not selected,Not selected,Not selected,
+4026,53,New Jersey,Female,Not selected,Not selected,Yes,2
+4032,55,Tennessee,Female,Not selected,Not selected,Not selected,
+4064,58,California,Male,Not selected,Not selected,Not selected,
+4066,59,North Carolina,Male,Not selected,Not selected,Not selected,Don’t know
+4068,29,Illinois,Female,Not selected,Not selected,Not selected,
+4070,65,Colorado,Female,Not selected,Not selected,Not selected,5
+4073,57,Wisconsin,Male,Not selected,Not selected,Not selected,1
+4074,58,New York,Male,Not selected,Not selected,Not selected,1
+4077,63,New York,Male,Not selected,Not selected,Not selected,
+4078,47,New York,Male,Not selected,Not selected,Not selected,5
+4086,61,New York,Male,Not selected,Not selected,Not selected,5
+4088,52,Connecticut,Female,Not selected,Not selected,Not selected,1
+4090,36,North Carolina,Female,Not selected,Yes,Not selected,3
+4093,40,Wisconsin,Female,Not selected,Not selected,Not selected,1
+4096,59,Kentucky,Male,Not selected,Not selected,Not selected,1
+4107,39,Alabama,Male,Not selected,Not selected,Not selected,1
+4113,25,South Carolina,Female,Not selected,Not selected,Not selected,
+4117,70,Texas,Female,Not selected,Not selected,Not selected,1
+4130,71,Ohio,Female,Not selected,Not selected,Yes,1
+4133,59,Washington,Male,Not selected,Not selected,Not selected,1
+4140,41,Washington,Female,Not selected,Not selected,Not selected,1
+4141,76,Virginia,Female,Not selected,Not selected,Not selected,1
+4160,45,Florida,Female,Not selected,Not selected,Not selected,1
+4164,49,Georgia,Female,Not selected,Not selected,Not selected,1
+4178,41,Florida,Female,Not selected,Not selected,Not selected,
+4191,58,Maine,Male,Not selected,Not selected,Not selected,1
+4192,41,Utah,Female,Not selected,Not selected,Not selected,1
+4197,61,Texas,Male,Not selected,Not selected,Not selected,
+4204,40,California,Female,Not selected,Not selected,Not selected,
+4209,23,Wisconsin,Male,Not selected,Not selected,Not selected,1
+4210,51,North Carolina,Male,Not selected,Not selected,Not selected,
+4214,53,Illinois,Male,Not selected,Not selected,Not selected,2
+4247,49,Maryland,Female,Not selected,Not selected,Not selected,1
+4257,23,Utah,Female,Not selected,Not selected,Not selected,
+4269,22,Kansas,Female,Not selected,Not selected,Not selected,
+4276,47,Florida,Female,Not selected,Not selected,Not selected,1
+4282,26,New York,Female,Not selected,Not selected,Not selected,
+4292,42,New Jersey,Female,Not selected,Not selected,Not selected,
+4301,51,Georgia,Female,Not selected,Not selected,Not selected,Don’t know
+4306,29,Minnesota,Female,Not selected,Not selected,Not selected,1
+4308,46,Massachusetts,Male,Not selected,Not selected,Not selected,3
+4310,37,Georgia,Female,Not selected,Not selected,Not selected,
+4319,27,West Virginia,Female,Not selected,Not selected,Not selected,2
+4321,36,Pennsylvania,Female,Not selected,Not selected,Not selected,2
+4322,29,Florida,Female,Not selected,Not selected,Not selected,4
+4324,30,Oregon,Female,Not selected,Not selected,Not selected,
+4341,43,Illinois,Female,Not selected,Not selected,Not selected,2
+4348,45,Ohio,Female,Not selected,Not selected,Not selected,4
+4350,24,New York,Female,Not selected,Not selected,Not selected,
+4355,37,Iowa,Female,Not selected,Not selected,Not selected,5
+4357,58,New York,Male,Not selected,Not selected,Not selected,
+4363,67,California,Male,Not selected,Not selected,Not selected,
+4371,62,Pennsylvania,Male,Not selected,Not selected,Not selected,2
+4379,44,California,Female,Not selected,Not selected,Not selected,2
+4387,49,Missouri,Female,Not selected,Not selected,Not selected,1
+4389,64,Louisiana,Male,Not selected,Not selected,Not selected,
+4393,53,Texas,Male,Not selected,Not selected,Not selected,
+4402,24,Michigan,Female,Not selected,Not selected,Yes,1
+4409,47,Florida,Female,Not selected,Not selected,Yes,2
+4416,34,Connecticut,Female,Not selected,Not selected,Not selected,1
+4425,49,Arizona,Female,Not selected,Not selected,Not selected,
+4435,32,Texas,Female,Not selected,Not selected,Not selected,1
+4450,37,Missouri,Female,Not selected,Not selected,Not selected,2
+4454,55,California,Male,Not selected,Not selected,Not selected,Don’t know
+4457,33,California,Female,Not selected,Not selected,Not selected,1
+4463,59,Utah,Male,Not selected,Not selected,Not selected,
+4467,23,Florida,Female,Not selected,Not selected,Not selected,1
+4472,24,New York,Female,Not selected,Not selected,Not selected,2
+4484,57,Arizona,Male,Not selected,Not selected,Not selected,1
+4494,21,Colorado,Male,Not selected,Not selected,Not selected,1
+4512,49,Washington,Female,Not selected,Not selected,Not selected,Don’t know
+4520,24,California,Female,Not selected,Not selected,Not selected,
+4524,35,Idaho,Female,Not selected,Not selected,Not selected,2
+4553,63,California,Male,Not selected,Not selected,Not selected,
+4559,54,Texas,Female,Not selected,Not selected,Not selected,
+4565,38,Arizona,Female,Not selected,Not selected,Not selected,
+4569,41,Michigan,Female,Not selected,Not selected,Not selected,5
+4574,60,Texas,Male,Not selected,Not selected,Not selected,1
+4575,63,Maryland,Male,Not selected,Not selected,Not selected,1
+4576,48,Arizona,Female,Not selected,Not selected,Not selected,Don’t know
+4582,47,Idaho,Female,Not selected,Not selected,Yes,1
+4584,35,Nevada,Female,Not selected,Not selected,Not selected,
+4595,38,Arizona,Female,Not selected,Not selected,Not selected,
+4599,33,Illinois,Female,Not selected,Not selected,Not selected,1
+4613,31,Wisconsin,Male,Not selected,Not selected,Not selected,
+4615,49,California,Female,Not selected,Not selected,Not selected,1
+4626,31,California,Female,Not selected,Not selected,Yes,Don’t know
+4630,44,Michigan,Female,Not selected,Not selected,Not selected,
+4636,38,Florida,Female,Not selected,Not selected,Not selected,
+4637,37,California,Female,Not selected,Not selected,Yes,3
+4638,25,Michigan,Female,Not selected,Not selected,Yes,1
+4641,30,Virginia,Female,Not selected,Not selected,Not selected,
+4642,44,Florida,Male,Not selected,Not selected,Not selected,2
+4652,70,Illinois,Female,Not selected,Not selected,Not selected,1
+4653,55,New York,Female,Not selected,Not selected,Not selected,
+4663,48,Georgia,Male,Not selected,Not selected,Not selected,5
+4665,44,Maryland,Female,Not selected,Not selected,Not selected,
+4676,40,California,Male,Not selected,Not selected,Not selected,Don’t know
+4686,63,Tennessee,Female,Not selected,Not selected,Not selected,
+4692,28,Montana,Female,Not selected,Not selected,Not selected,1
+4705,41,Tennessee,Male,Not selected,Not selected,Not selected,1
+4707,45,Florida,Female,Not selected,Not selected,Not selected,Don’t know
+4729,67,California,Female,Not selected,Not selected,Not selected,
+4731,43,Wisconsin,Female,Not selected,Not selected,Not selected,Don’t know
+4734,35,California,Female,Not selected,Not selected,Yes,2
+4737,24,Texas,Male,Not selected,Not selected,Not selected,2
+4738,28,Tennessee,Male,Not selected,Not selected,Not selected,
+4763,36,Michigan,Female,Not selected,Not selected,Not selected,
+4765,45,Florida,Female,Not selected,Not selected,Not selected,
+4777,33,New Jersey,Female,Not selected,Not selected,Not selected,
+4787,48,Minnesota,Female,Not selected,Not selected,Yes,1
+4793,21,Arkansas,Female,Not selected,Not selected,Yes,1
+4801,31,North Carolina,Female,Not selected,Not selected,Not selected,2
+4804,26,California,Male,Not selected,Not selected,Not selected,1
+4806,43,Connecticut,Female,Not selected,Not selected,Not selected,1
+4808,30,Pennsylvania,Male,Not selected,Not selected,Not selected,
+4812,46,California,Female,Not selected,Not selected,Not selected,2
+4822,49,Texas,Female,Not selected,Not selected,Not selected,1
+4841,35,Florida,Female,Not selected,Not selected,Not selected,
+4842,57,Nevada,Female,Not selected,Not selected,Not selected,
+4849,35,Virginia,Female,Not selected,Not selected,Not selected,2
+4852,34,Pennsylvania,Male,Not selected,Not selected,Not selected,2
+4856,47,Tennessee,Female,Not selected,Not selected,Not selected,1
+4857,75,Georgia,Female,Not selected,Not selected,Not selected,
+4864,43,Vermont,Female,Not selected,Not selected,Not selected,1
+4865,39,Georgia,Female,Not selected,Not selected,Not selected,
+4875,39,West Virginia,Female,Not selected,Not selected,Not selected,
+4881,44,Florida,Female,Not selected,Not selected,Not selected,2
+4883,25,South Carolina,Female,Not selected,Not selected,Not selected,
+4892,72,Connecticut,Female,Not selected,Not selected,Not selected,
+4904,48,Minnesota,Female,Not selected,Not selected,Not selected,Don’t know
+4913,48,Florida,Female,Not selected,Not selected,Not selected,
+4915,65,Ohio,Female,Not selected,Not selected,Not selected,
+4920,49,Illinois,Male,Not selected,Not selected,Not selected,
+4939,33,Maryland,Female,Not selected,Not selected,Not selected,Don’t know
+4941,38,Ohio,Female,Not selected,Not selected,Yes,2
+4960,48,North Carolina,Female,Not selected,Not selected,Not selected,
+4962,44,Massachusetts,Female,Not selected,Not selected,Not selected,
+4964,76,Maryland,Female,Not selected,Not selected,Not selected,1
+4972,50,Texas,Male,Not selected,Not selected,Not selected,
+4979,21,Ohio,Male,Not selected,Not selected,Not selected,Don’t know
+4991,29,Nebraska,Female,Not selected,Not selected,Not selected,Don’t know
+4992,45,Virginia,Female,Not selected,Not selected,Not selected,2
+5002,36,Pennsylvania,Female,Not selected,Not selected,Not selected,
+5006,28,Florida,Female,Not selected,Yes,Not selected,2
+5010,47,Wisconsin,Female,Not selected,Not selected,Not selected,1
+5017,28,Missouri,Female,Not selected,Not selected,Not selected,1
+5021,58,Illinois,Female,Not selected,Not selected,Not selected,
+5025,34,New York,Female,Not selected,Not selected,Not selected,
+5035,38,California,Female,Not selected,Not selected,Yes,1
+5037,44,New York,Male,Not selected,Not selected,Not selected,1
+5050,53,Pennsylvania,Female,Not selected,Not selected,Not selected,
+5056,64,Kansas,Female,Not selected,Not selected,Not selected,
+5061,39,Ohio,Female,Not selected,Not selected,Not selected,1
+5066,22,Iowa,Female,Not selected,Yes,Not selected,1
+5067,33,New York,Female,Not selected,Not selected,Not selected,1
+5070,18,California,Female,Not selected,Not selected,Not selected,
+5075,39,Utah,Male,Not selected,Not selected,Not selected,5
+5083,81,Ohio,Female,Not selected,Not selected,Not selected,
+5084,40,Virginia,Female,Not selected,Not selected,Not selected,1
+5099,57,Connecticut,Female,Not selected,Not selected,Not selected,
+5101,22,South Carolina,Female,Not selected,Not selected,Not selected,
+5115,21,New Hampshire,Female,Not selected,Not selected,Not selected,1
+5118,27,Arizona,Male,Not selected,Not selected,Not selected,
+5123,29,Oregon,Female,Not selected,Not selected,Not selected,1
+5134,35,Kansas,Male,Not selected,Not selected,Not selected,1
+5136,43,District of Columbia,Female,Not selected,Not selected,Not selected,3
+5138,37,California,Female,Not selected,Not selected,Not selected,1
+5140,36,Alaska,Female,Not selected,Not selected,Not selected,Don’t know
+5160,34,Ohio,Male,Not selected,Not selected,Not selected,
+5166,32,New Mexico,Male,Not selected,Not selected,Not selected,1
+5167,26,California,Female,Not selected,Not selected,Not selected,
+5168,29,Colorado,Female,Not selected,Not selected,Not selected,2
+5182,35,Arizona,Female,Not selected,Not selected,Not selected,1
+5187,41,California,Female,Not selected,Not selected,Not selected,
+5191,49,Oregon,Male,Not selected,Not selected,Not selected,2
+5193,43,California,Male,Not selected,Not selected,Not selected,Don’t know
+5198,22,Texas,Female,Not selected,Not selected,Not selected,1
+5204,39,Colorado,Female,Not selected,Not selected,Not selected,5
+5209,74,Ohio,Female,Not selected,Not selected,Not selected,1
+5211,30,Arkansas,Female,Not selected,Not selected,Not selected,1
+5213,71,California,Male,Not selected,Not selected,Not selected,
+5215,40,California,Male,Not selected,Not selected,Not selected,
+5221,55,Kansas,Female,Not selected,Not selected,Not selected,
+5238,35,Pennsylvania,Female,Not selected,Yes,Yes,1
+5240,44,Oregon,Male,Not selected,Not selected,Not selected,Don’t know
+5250,38,New Jersey,Male,Not selected,Not selected,Not selected,2
+5254,33,Florida,Male,Not selected,Not selected,Not selected,
+5258,30,Ohio,Female,Not selected,Not selected,Not selected,1
+5260,31,Texas,Male,Not selected,Not selected,Not selected,5
+5272,40,Arizona,Male,Not selected,Not selected,Not selected,1
+5273,23,California,Female,Not selected,Not selected,Not selected,1
+5275,38,Ohio,Female,Not selected,Not selected,Not selected,
+5281,33,Vermont,Male,Not selected,Not selected,Not selected,1
+5291,31,Florida,Male,Not selected,Not selected,Not selected,1
+5297,36,California,Female,Not selected,Not selected,Not selected,1
+5302,70,California,Male,Not selected,Not selected,Not selected,
+5305,32,Oklahoma,Male,Not selected,Not selected,Not selected,
+5311,43,Pennsylvania,Male,Not selected,Not selected,Not selected,Don’t know
+5312,45,Iowa,Female,Not selected,Not selected,Not selected,Don’t know
+5315,29,Texas,Female,Not selected,Not selected,Not selected,
+5321,37,Georgia,Female,Not selected,Not selected,Not selected,5
+5324,33,District of Columbia,Male,Not selected,Not selected,Not selected,5
+5335,35,Oregon,Male,Not selected,Not selected,Not selected,1
+5347,34,Utah,Female,Not selected,Not selected,Not selected,
+5352,44,Texas,Male,Not selected,Not selected,Not selected,1
+5360,36,Georgia,Female,Not selected,Not selected,Not selected,
+5365,55,Florida,Female,Not selected,Not selected,Not selected,
+5369,38,Texas,Female,Not selected,Not selected,Yes,1
+5392,34,New York,Female,Not selected,Not selected,Not selected,1
+5395,39,Massachusetts,Female,Not selected,Not selected,Not selected,1
+5400,75,Maryland,Female,Not selected,Not selected,Not selected,1
+5402,66,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+5404,24,Florida,Female,Not selected,Not selected,Not selected,Don’t know
+5420,31,Idaho,Female,Not selected,Not selected,Not selected,2
+5421,46,North Carolina,Male,Not selected,Not selected,Not selected,
+5422,29,Wisconsin,Female,Not selected,Not selected,Not selected,Don’t know
+5426,23,Virginia,Female,Not selected,Not selected,Not selected,
+5428,32,New Jersey,Female,Not selected,Not selected,Not selected,
+5437,49,Pennsylvania,Male,Not selected,Not selected,Not selected,5
+5447,41,Idaho,Male,Not selected,Not selected,Not selected,
+5448,59,Pennsylvania,Female,Not selected,Not selected,Not selected,
+5449,36,Ohio,Female,Not selected,Yes,Yes,1
+5453,48,Texas,Male,Not selected,Not selected,Not selected,
+5461,33,Illinois,Female,Not selected,Not selected,Not selected,
+5468,31,Massachusetts,Male,Not selected,Not selected,Not selected,
+5474,39,Alabama,Male,Not selected,Not selected,Not selected,
+5479,36,Virginia,Female,Not selected,Not selected,Not selected,
+5480,22,Kansas,Female,Not selected,Not selected,Not selected,Don’t know
+5483,47,Nebraska,Male,Not selected,Not selected,Not selected,
+5503,23,Ohio,Male,Not selected,Yes,Not selected,1
+5506,33,Kentucky,Female,Not selected,Not selected,Not selected,Don’t know
+5514,29,California,Female,Not selected,Not selected,Not selected,1
+5516,24,Illinois,Female,Not selected,Not selected,Not selected,
+5522,35,Missouri,Female,Not selected,Not selected,Not selected,1
+5523,33,New York,Female,Not selected,Not selected,Not selected,Don’t know
+5527,26,Alabama,Female,Not selected,Not selected,Not selected,
+5541,33,Michigan,Female,Not selected,Not selected,Not selected,1
+5542,44,Iowa,Male,Not selected,Not selected,Not selected,
+5556,31,Michigan,Female,Not selected,Not selected,Not selected,1
+5562,33,Maryland,Female,Not selected,Not selected,Not selected,
+5564,24,New York,Female,Not selected,Yes,Not selected,1
+5565,30,Michigan,Female,Not selected,Not selected,Yes,Don’t know
+5582,31,Oklahoma,Female,Not selected,Yes,Yes,3
+5598,38,New York,Female,Not selected,Not selected,Yes,1
+5607,34,Connecticut,Female,Not selected,Not selected,Not selected,
+5611,29,Georgia,Female,Not selected,Not selected,Yes,1
+5613,27,Georgia,Female,Not selected,Not selected,Yes,1
+5620,37,New York,Female,Not selected,Not selected,Not selected,Don’t know
+5643,40,Kansas,Male,Not selected,Not selected,Not selected,1
+5646,35,California,Female,Not selected,Not selected,Not selected,
+5648,19,Massachusetts,Female,Not selected,Not selected,Not selected,3
+5649,23,Florida,Female,Not selected,Not selected,Not selected,1
+5650,42,Texas,Female,Not selected,Not selected,Not selected,
+5661,28,New York,Female,Not selected,Not selected,Not selected,
+5663,41,South Carolina,Male,Not selected,Not selected,Not selected,1
+5674,29,Massachusetts,Female,Not selected,Not selected,Not selected,Don’t know
+5677,31,Tennessee,Female,Not selected,Not selected,Not selected,1
+5690,39,Vermont,Female,Not selected,Not selected,Not selected,1
+5691,32,New York,Female,Not selected,Not selected,Not selected,1
+5694,37,Nebraska,Female,Not selected,Not selected,Not selected,1
+5706,46,California,Male,Not selected,Not selected,Not selected,
+5708,39,Iowa,Female,Not selected,Not selected,Not selected,2
+5711,43,California,Male,Not selected,Not selected,Not selected,5
+5722,25,Ohio,Female,Not selected,Not selected,Not selected,
+5729,38,Texas,Female,Not selected,Not selected,Not selected,
+5731,23,Massachusetts,Female,Not selected,Not selected,Not selected,1
+5737,25,California,Female,Not selected,Not selected,Not selected,
+5741,53,South Carolina,Female,Not selected,Yes,Yes,1
+5749,27,Washington,Male,Not selected,Not selected,Not selected,
+5769,59,Alabama,Male,Not selected,Not selected,Not selected,
+5773,24,California,Male,Not selected,Not selected,Not selected,
+5776,46,Virginia,Male,Not selected,Not selected,Not selected,
+5779,34,Tennessee,Female,Not selected,Not selected,Yes,1
+5780,34,Missouri,Female,Not selected,Not selected,Not selected,
+5795,32,Oregon,Male,Not selected,Not selected,Not selected,
+5805,49,Georgia,Female,Not selected,Not selected,Not selected,2
+5808,56,Missouri,Female,Not selected,Not selected,Not selected,
+5821,29,Iowa,Female,Not selected,Not selected,Not selected,
+5830,35,Kansas,Male,Not selected,Not selected,Not selected,1
+5837,33,Florida,Female,Not selected,Not selected,Not selected,
+5849,48,Missouri,Male,Not selected,Not selected,Not selected,3
+5850,26,Indiana,Female,Not selected,Not selected,Not selected,
+5852,48,Arizona,Female,Not selected,Not selected,Not selected,1
+5856,20,New Hampshire,Female,Not selected,Not selected,Not selected,1
+5862,49,Texas,Male,Not selected,Not selected,Not selected,Don’t know
+5864,44,Pennsylvania,Male,Not selected,Not selected,Not selected,
+5865,50,Texas,Female,Not selected,Not selected,Not selected,3
+5877,62,Washington,Female,Not selected,Not selected,Not selected,
+5879,49,Massachusetts,Male,Not selected,Not selected,Not selected,1
+5883,37,Virginia,Male,Not selected,Not selected,Not selected,
+5884,52,Alabama,Male,Not selected,Not selected,Not selected,1
+5885,58,Arizona,Female,Not selected,Not selected,Not selected,
+5888,43,Minnesota,Male,Not selected,Not selected,Not selected,
+5895,39,New Jersey,Female,Not selected,Not selected,Not selected,5
+5908,28,Georgia,Male,Not selected,Not selected,Not selected,
+5927,26,Oklahoma,Male,Not selected,Not selected,Not selected,1
+5931,24,Tennessee,Female,Not selected,Not selected,Not selected,
+5942,46,Pennsylvania,Male,Not selected,Not selected,Not selected,
+5948,49,Florida,Male,Not selected,Not selected,Not selected,
+5952,45,Florida,Male,Not selected,Not selected,Not selected,
+5961,48,Texas,Male,Not selected,Not selected,Not selected,
+5970,59,North Carolina,Female,Not selected,Not selected,Not selected,Don’t know
+5971,63,Ohio,Female,Not selected,Not selected,Not selected,2
+5979,23,Missouri,Female,Not selected,Not selected,Yes,1
+5988,34,Maryland,Male,Not selected,Not selected,Not selected,2
+5989,30,North Carolina,Female,Not selected,Not selected,Not selected,1
+5998,60,Connecticut,Female,Not selected,Not selected,Not selected,4
+6007,73,Missouri,Female,Not selected,Not selected,Yes,Don’t know
+6020,24,Pennsylvania,Female,Not selected,Not selected,Not selected,2
+6024,77,Florida,Female,Not selected,Not selected,Not selected,1
+6028,48,New Jersey,Male,Not selected,Not selected,Not selected,
+6039,53,Virginia,Male,Not selected,Not selected,Not selected,1
+6043,49,Florida,Male,Not selected,Not selected,Not selected,
+6048,57,Texas,Female,Not selected,Not selected,Not selected,3
+6056,26,Texas,Female,Not selected,Not selected,Not selected,
+6063,65,Colorado,Female,Not selected,Not selected,Yes,2
+6067,71,New Jersey,Male,Not selected,Not selected,Not selected,
+6073,51,Virginia,Female,Not selected,Not selected,Not selected,
+6080,54,New York,Male,Not selected,Not selected,Not selected,
+6083,67,Washington,Female,Not selected,Not selected,Not selected,
+6086,82,Missouri,Male,Not selected,Not selected,Not selected,Don’t know
+6089,61,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+6091,41,Michigan,Female,Not selected,Not selected,Not selected,2
+6095,63,Illinois,Male,Not selected,Not selected,Not selected,
+6105,66,Pennsylvania,Male,Not selected,Not selected,Not selected,
+6108,31,Connecticut,Female,Not selected,Not selected,Not selected,
+6127,36,California,Female,Not selected,Not selected,Not selected,1
+6130,81,Illinois,Male,Not selected,Not selected,Not selected,5
+6136,63,Georgia,Male,Not selected,Not selected,Not selected,2
+6150,39,New Jersey,Female,Not selected,Not selected,Not selected,2
+6151,78,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+6175,64,Indiana,Male,Not selected,Not selected,Not selected,1
+6176,60,Arizona,Female,Not selected,Yes,Yes,2
+6177,25,Illinois,Female,Not selected,Not selected,Not selected,1
+6188,58,New York,Male,Not selected,Not selected,Not selected,Don’t know
+6198,64,California,Female,Not selected,Not selected,Not selected,1
+6211,58,Utah,Male,Not selected,Not selected,Not selected,Don’t know
+6213,71,Louisiana,Female,Not selected,Not selected,Not selected,5
+6214,60,Alabama,Male,Not selected,Not selected,Not selected,
+6217,45,North Carolina,Female,Not selected,Not selected,Not selected,
+6220,70,California,Male,Not selected,Not selected,Not selected,1
+6235,71,California,Male,Not selected,Not selected,Not selected,
+6236,42,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+6240,62,California,Male,Not selected,Not selected,Not selected,3
+6252,70,Virginia,Male,Not selected,Not selected,Not selected,1
+6253,54,California,Female,Not selected,Not selected,Not selected,Don’t know
+6254,31,Wisconsin,Female,Not selected,Not selected,Not selected,1
+6259,75,Pennsylvania,Female,Not selected,Yes,Yes,1
+6261,35,Nevada,Female,Not selected,Not selected,Not selected,1
+6263,76,Maryland,Female,Not selected,Not selected,Yes,1
+6265,78,California,Male,Not selected,Not selected,Not selected,
+6266,68,New York,Female,Not selected,Not selected,Not selected,2
+6269,38,Oklahoma,Female,Not selected,Not selected,Not selected,2
+6284,30,Pennsylvania,Male,Not selected,Not selected,Not selected,2
+6286,66,Massachusetts,Female,Not selected,Not selected,Not selected,Don’t know
+6299,44,Georgia,Male,Not selected,Not selected,Not selected,
+6300,66,Wisconsin,Female,Not selected,Not selected,Not selected,Don’t know
+6301,31,Tennessee,Female,Not selected,Not selected,Not selected,1
+6304,31,Ohio,Female,Not selected,Not selected,Not selected,Don’t know
+6308,84,Texas,Female,Not selected,Not selected,Not selected,1
+6318,24,North Carolina,Female,Not selected,Not selected,Not selected,1
+6327,55,New Jersey,Female,Not selected,Not selected,Yes,Don’t know
+6328,62,Montana,Female,Not selected,Not selected,Not selected,Don’t know
+6330,69,Oklahoma,Female,Not selected,Not selected,Not selected,Don’t know
+6331,22,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+6343,48,Massachusetts,Female,Not selected,Not selected,Yes,1
+6347,48,North Carolina,Female,Not selected,Not selected,Not selected,
+6354,56,Tennessee,Female,Not selected,Not selected,Not selected,5
+6355,61,Oregon,Female,Not selected,Not selected,Not selected,
+6356,43,Texas,Female,Not selected,Not selected,Not selected,
+6359,44,Michigan,Female,Not selected,Not selected,Not selected,1
+6368,61,Iowa,Male,Not selected,Not selected,Not selected,
+6374,80,California,Female,Not selected,Not selected,Not selected,
+6380,74,Georgia,Male,Not selected,Not selected,Not selected,1
+6402,55,Tennessee,Female,Not selected,Not selected,Not selected,1
+6417,27,New York,Female,Not selected,Not selected,Not selected,
+6425,71,Texas,Male,Not selected,Not selected,Not selected,
+6436,62,New York,Female,Not selected,Not selected,Not selected,
+6443,56,Delaware,Male,Not selected,Not selected,Not selected,1
+6444,45,California,Female,Not selected,Not selected,Not selected,2
+6448,73,Oklahoma,Female,Not selected,Not selected,Not selected,
+6453,63,Arizona,Female,Not selected,Not selected,Not selected,
+6461,64,New York,Male,Not selected,Not selected,Not selected,
+6465,76,Florida,Female,Not selected,Not selected,Not selected,
+6472,68,South Dakota,Female,Not selected,Not selected,Not selected,Don’t know
+6481,65,South Carolina,Female,Not selected,Not selected,Not selected,3
+6493,19,Utah,Male,Not selected,Yes,Not selected,3
+6496,49,Florida,Female,Not selected,Not selected,Not selected,1
+6497,71,Illinois,Male,Not selected,Not selected,Not selected,
+6510,38,Missouri,Female,Not selected,Not selected,Not selected,2
+6515,26,New Hampshire,Female,Not selected,Not selected,Not selected,1
+6518,65,Texas,Female,Not selected,Not selected,Not selected,
+6527,68,Kentucky,Male,Not selected,Not selected,Not selected,Don’t know
+6528,56,Ohio,Male,Not selected,Not selected,Not selected,
+6533,74,Arizona,Male,Not selected,Not selected,Not selected,1
+6535,55,Maryland,Female,Not selected,Not selected,Not selected,1
+6555,62,Connecticut,Male,Not selected,Not selected,Not selected,
+6565,51,Virginia,Female,Not selected,Not selected,Not selected,Don’t know
+6570,64,California,Male,Not selected,Not selected,Not selected,1
+6579,53,Florida,Female,Not selected,Not selected,Not selected,1
+6593,69,Missouri,Male,Not selected,Not selected,Not selected,1
+6603,66,Colorado,Male,Not selected,Not selected,Not selected,1
+6606,61,Missouri,Female,Not selected,Not selected,Not selected,1
+6608,62,Texas,Female,Not selected,Not selected,Not selected,
+6619,57,North Carolina,Female,Not selected,Not selected,Not selected,
+6629,37,New York,Female,Not selected,Not selected,Not selected,4
+6657,86,Texas,Female,Not selected,Yes,Not selected,Don’t know
+6697,36,Pennsylvania,Female,Not selected,Not selected,Not selected,
+6703,61,California,Male,Not selected,Not selected,Not selected,
+6710,63,New York,Female,Not selected,Not selected,Not selected,3
+6714,59,Indiana,Male,Not selected,Not selected,Not selected,
+6723,63,Florida,Female,Not selected,Not selected,Not selected,
+6737,62,Ohio,Female,Not selected,Not selected,Yes,1
+6739,53,New York,Female,Not selected,Not selected,Not selected,Don’t know
+6750,19,Oregon,Female,Not selected,Not selected,Not selected,Don’t know
+6754,52,New York,Female,Not selected,Not selected,Not selected,1
+6760,49,New Jersey,Female,Not selected,Not selected,Not selected,
+6765,45,California,Female,Not selected,Not selected,Not selected,2
+6771,63,Illinois,Male,Not selected,Not selected,Not selected,1
+6796,45,Ohio,Female,Not selected,Not selected,Not selected,Don’t know
+6799,29,Michigan,Male,Not selected,Not selected,Not selected,1
+6800,42,Ohio,Male,Not selected,Not selected,Not selected,
+6810,61,Colorado,Male,Not selected,Not selected,Not selected,
+6814,61,New Mexico,Male,Not selected,Not selected,Not selected,1
+6824,22,Colorado,Female,Not selected,Not selected,Not selected,1
+6830,64,Ohio,Male,Not selected,Not selected,Not selected,1
+6831,48,Iowa,Female,Not selected,Not selected,Not selected,Don’t know
+6833,58,Illinois,Male,Not selected,Not selected,Not selected,Don’t know
+6835,70,Missouri,Female,Not selected,Not selected,Not selected,1
+6841,52,Virginia,Male,Not selected,Not selected,Not selected,
+6843,68,South Carolina,Female,Not selected,Not selected,Not selected,5
+6849,62,Missouri,Male,Not selected,Not selected,Not selected,1
+6851,50,Ohio,Male,Not selected,Not selected,Not selected,
+6852,32,Ohio,Male,Not selected,Not selected,Not selected,1
+6857,30,Florida,Male,Not selected,Not selected,Not selected,1
+6864,51,Georgia,Male,Not selected,Not selected,Not selected,1
+6867,32,Maryland,Female,Not selected,Not selected,Not selected,1
+6869,54,Wisconsin,Male,Not selected,Not selected,Yes,1
+6875,51,New Jersey,Male,Not selected,Not selected,Not selected,
+6882,36,Texas,Female,Not selected,Not selected,Not selected,1
+6883,31,Oregon,Female,Not selected,Not selected,Not selected,1
+6891,35,Illinois,Female,Not selected,Not selected,Not selected,
+6900,58,New York,Male,Not selected,Not selected,Not selected,
+6903,33,Louisiana,Female,Not selected,Not selected,Not selected,
+6907,63,Oklahoma,Male,Not selected,Not selected,Not selected,2
+6914,61,Georgia,Male,Not selected,Not selected,Not selected,
+6920,36,Illinois,Female,Not selected,Not selected,Not selected,1
+6924,35,South Carolina,Male,Not selected,Not selected,Not selected,
+6951,48,Ohio,Female,Not selected,Not selected,Not selected,
+6956,31,Missouri,Female,Not selected,Not selected,Not selected,3
+6959,36,Massachusetts,Female,Not selected,Not selected,Not selected,3
+6967,32,New Jersey,Male,Not selected,Not selected,Not selected,1
+6971,18,New York,Male,Not selected,Not selected,Not selected,1
+6976,30,Iowa,Female,Not selected,Not selected,Not selected,2
+6977,32,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+6985,58,Massachusetts,Female,Not selected,Not selected,Not selected,
+6992,37,Florida,Male,Not selected,Not selected,Not selected,
+6994,48,Indiana,Female,Not selected,Not selected,Not selected,
+7002,40,Washington,Female,Not selected,Not selected,Not selected,1
+7004,33,Florida,Female,Not selected,Not selected,Not selected,1
+7022,63,Texas,Male,Not selected,Not selected,Not selected,2
+7023,72,California,Female,Not selected,Not selected,Not selected,
+7025,44,Georgia,Female,Not selected,Not selected,Not selected,
+7033,44,Florida,Female,Not selected,Yes,Not selected,1
+7043,39,Ohio,Female,Not selected,Not selected,Yes,1
+7047,32,California,Male,Not selected,Not selected,Not selected,
+7063,28,Arizona,Male,Not selected,Not selected,Not selected,
+7070,24,Georgia,Female,Not selected,Not selected,Not selected,1
+7078,47,California,Female,Not selected,Yes,Yes,1
+7096,27,Texas,Male,Not selected,Not selected,Not selected,
+7099,21,California,Female,Not selected,Not selected,Not selected,
+7100,45,New York,Male,Not selected,Not selected,Not selected,1
+7101,30,Florida,Female,Not selected,Not selected,Not selected,1
+7103,31,Texas,Female,Not selected,Not selected,Not selected,
+7123,35,California,Female,Not selected,Not selected,Not selected,
+7124,48,Arizona,Female,Not selected,Not selected,Not selected,1
+7129,42,California,Female,Not selected,Not selected,Not selected,
+7141,49,Texas,Female,Not selected,Not selected,Not selected,
+7145,39,Indiana,Male,Not selected,Not selected,Not selected,1
+7146,64,Texas,Male,Not selected,Not selected,Not selected,1
+7149,42,Georgia,Male,Not selected,Not selected,Not selected,1
+7154,40,Oklahoma,Female,Not selected,Not selected,Not selected,1
+7167,40,Georgia,Female,Not selected,Not selected,Yes,1
+7169,43,New York,Female,Not selected,Not selected,Not selected,1
+7188,22,Alabama,Female,Not selected,Not selected,Not selected,2
+7198,29,Kentucky,Female,Not selected,Not selected,Yes,2
+7204,60,Louisiana,Female,Not selected,Not selected,Not selected,2
+7205,42,Tennessee,Female,Not selected,Not selected,Not selected,1
+7211,28,California,Male,Not selected,Not selected,Not selected,2
+7224,37,New York,Female,Not selected,Not selected,Not selected,1
+7256,43,Texas,Male,Not selected,Not selected,Not selected,1
+7261,32,North Carolina,Female,Not selected,Not selected,Not selected,1
+7267,26,Hawaii,Male,Not selected,Not selected,Not selected,1
+7275,29,Texas,Female,Not selected,Not selected,Not selected,
+7283,25,Indiana,Male,Not selected,Not selected,Not selected,1
+7285,45,Massachusetts,Male,Not selected,Not selected,Not selected,1
+7286,37,Maryland,Female,Not selected,Not selected,Not selected,
+7303,35,Colorado,Male,Not selected,Not selected,Not selected,
+7308,40,New York,Female,Not selected,Not selected,Not selected,1
+7336,22,Michigan,Male,Not selected,Not selected,Not selected,1
+7341,48,Florida,Female,Not selected,Not selected,Not selected,
+7348,45,Massachusetts,Male,Not selected,Not selected,Not selected,
+7352,25,Michigan,Male,Not selected,Not selected,Not selected,1
+7353,19,Ohio,Female,Not selected,Yes,Not selected,4
+7354,50,Florida,Female,Not selected,Not selected,Not selected,
+7366,44,Florida,Female,Not selected,Yes,Not selected,1
+7377,75,Texas,Male,Not selected,Not selected,Not selected,
+7379,24,Michigan,Female,Not selected,Not selected,Not selected,2
+7384,74,Virginia,Male,Not selected,Not selected,Not selected,
+7402,64,California,Male,Not selected,Yes,Not selected,1
+7408,69,Kentucky,Male,Not selected,Not selected,Not selected,1
+7429,73,Georgia,Female,Not selected,Not selected,Not selected,Don’t know
+7445,59,Florida,Male,Not selected,Not selected,Yes,1
+7450,67,Maryland,Female,Not selected,Not selected,Not selected,3
+7453,62,Georgia,Female,Not selected,Not selected,Not selected,
+7455,67,Georgia,Male,Not selected,Not selected,Not selected,1
+7457,73,Florida,Male,Not selected,Not selected,Not selected,1
+7465,74,Florida,Female,Not selected,Yes,Yes,1
+7475,60,Alabama,Male,Not selected,Not selected,Not selected,1
+7478,67,Florida,Female,Not selected,Not selected,Not selected,Don’t know
+7482,58,Kansas,Male,Not selected,Not selected,Not selected,1
+7490,62,Arizona,Male,Not selected,Not selected,Not selected,2
+7492,36,Florida,Female,Not selected,Not selected,Not selected,
+7505,71,California,Female,Not selected,Not selected,Not selected,
+7509,74,Utah,Male,Not selected,Not selected,Not selected,
+7514,69,Texas,Female,Not selected,Not selected,Not selected,
+7520,62,Nevada,Female,Not selected,Yes,Yes,1
+7524,68,Utah,Male,Not selected,Not selected,Not selected,
+7553,76,Florida,Female,Not selected,Not selected,Not selected,
+7581,85,New York,Female,Not selected,Not selected,Not selected,
+7591,31,Alabama,Female,Not selected,Not selected,Not selected,
+7606,73,California,Male,Not selected,Not selected,Not selected,
+7610,74,Maryland,Female,Not selected,Not selected,Not selected,Don’t know
+7616,68,Washington,Female,Not selected,Not selected,Not selected,4
+7618,59,Colorado,Female,Not selected,Not selected,Not selected,2
+7620,66,Wisconsin,Female,Not selected,Not selected,Not selected,1
+7625,73,New York,Female,Not selected,Not selected,Not selected,2
+7630,69,Arizona,Female,Not selected,Not selected,Not selected,
+7632,78,Arizona,Female,Not selected,Not selected,Not selected,Don’t know
+7641,80,Maryland,Male,Not selected,Not selected,Yes,Don’t know
+7647,58,California,Female,Not selected,Not selected,Not selected,
+7655,53,Ohio,Male,Not selected,Not selected,Not selected,1
+7661,27,Texas,Female,Not selected,Yes,Yes,2
+7662,58,Wisconsin,Female,Not selected,Not selected,Not selected,5
+7671,51,California,Female,Not selected,Not selected,Not selected,1
+7672,57,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+7680,39,Texas,Female,Not selected,Not selected,Not selected,2
+7682,54,California,Female,Not selected,Not selected,Not selected,2
+7689,36,Indiana,Male,Not selected,Not selected,Not selected,3
+7698,61,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+7701,18,Virginia,Female,Not selected,Not selected,Not selected,1
+7716,60,Indiana,Male,Not selected,Not selected,Not selected,5
+7722,56,New Jersey,Female,Not selected,Not selected,Not selected,
+7724,51,Minnesota,Female,Not selected,Not selected,Not selected,2
+7736,34,Ohio,Male,Not selected,Yes,Not selected,1
+7741,52,Missouri,Female,Not selected,Not selected,Not selected,3
+7745,33,Ohio,Female,Not selected,Not selected,Not selected,1
+7746,60,Wisconsin,Female,Not selected,Not selected,Not selected,
+7755,53,Missouri,Female,Not selected,Yes,Yes,2
+7762,53,Illinois,Female,Not selected,Not selected,Not selected,
+7770,74,New York,Female,Not selected,Not selected,Not selected,
+7777,68,Tennessee,Male,Not selected,Not selected,Not selected,
+7790,67,California,Female,Not selected,Not selected,Not selected,2
+7792,46,New Jersey,Male,Not selected,Not selected,Not selected,
+7799,80,Maryland,Female,Not selected,Not selected,Not selected,
+7801,60,Alabama,Male,Not selected,Not selected,Not selected,
+7804,37,Rhode Island,Female,Not selected,Not selected,Not selected,
+7819,70,Florida,Female,Not selected,Not selected,Not selected,1
+7831,74,New Jersey,Female,Not selected,Not selected,Not selected,1
+7852,51,New Jersey,Female,Not selected,Not selected,Not selected,Don’t know
+7884,61,Ohio,Female,Not selected,Not selected,Not selected,Don’t know
+7886,64,Pennsylvania,Female,Not selected,Not selected,Not selected,2
+7909,60,New York,Male,Not selected,Not selected,Not selected,1
+7920,86,Oklahoma,Male,Not selected,Not selected,Not selected,1
+7922,36,Alabama,Female,Not selected,Not selected,Not selected,3
+7939,37,Florida,Female,Not selected,Not selected,Yes,1
+7941,58,Missouri,Female,Not selected,Not selected,Not selected,
+7946,33,Tennessee,Female,Not selected,Not selected,Not selected,
+7947,61,California,Male,Not selected,Not selected,Not selected,
+7951,61,New York,Male,Not selected,Not selected,Not selected,
+7956,64,South Dakota,Female,Not selected,Not selected,Not selected,1
+7957,56,Illinois,Female,Not selected,Not selected,Not selected,
+7971,43,Hawaii,Female,Not selected,Not selected,Not selected,
+7980,63,New York,Female,Not selected,Not selected,Not selected,Don’t know
+7982,47,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+8005,63,Minnesota,Female,Not selected,Not selected,Not selected,
+8010,59,Colorado,Female,Not selected,Not selected,Not selected,
+8012,62,New York,Female,Not selected,Not selected,Not selected,1
+8029,54,Utah,Female,Not selected,Yes,Not selected,1
+8036,48,Oregon,Female,Not selected,Not selected,Not selected,
+8050,48,Oregon,Female,Not selected,Not selected,Not selected,1
+8061,53,Illinois,Female,Not selected,Not selected,Not selected,Don’t know
+8064,55,New Jersey,Female,Not selected,Not selected,Not selected,
+8071,66,Georgia,Female,Not selected,Not selected,Not selected,
+8080,41,Washington,Female,Not selected,Not selected,Not selected,1
+8083,52,District of Columbia,Male,Not selected,Not selected,Not selected,1
+8085,62,Hawaii,Male,Not selected,Not selected,Not selected,
+8087,49,Minnesota,Female,Not selected,Not selected,Not selected,
+8090,26,Georgia,Male,Not selected,Not selected,Not selected,
+8103,76,Maryland,Female,Not selected,Not selected,Not selected,1
+8107,64,Tennessee,Male,Not selected,Not selected,Not selected,
+8139,58,Virginia,Male,Not selected,Not selected,Not selected,
+8171,42,Massachusetts,Female,Not selected,Not selected,Not selected,
+8193,76,Massachusetts,Female,Not selected,Not selected,Not selected,
+8210,69,New York,Male,Not selected,Not selected,Not selected,3
+8211,60,Missouri,Female,Not selected,Not selected,Not selected,2
+8213,55,New York,Female,Not selected,Not selected,Not selected,1
+8214,67,Texas,Female,Not selected,Not selected,Not selected,
+8234,68,Louisiana,Male,Not selected,Not selected,Not selected,
+8246,77,Georgia,Male,Not selected,Not selected,Not selected,1
+8264,71,Pennsylvania,Female,Not selected,Not selected,Yes,Don’t know
+8274,67,Missouri,Female,Not selected,Not selected,Not selected,Don’t know
+8288,61,Illinois,Male,Not selected,Not selected,Not selected,1
+8296,56,Illinois,Female,Not selected,Not selected,Not selected,1
+8298,40,Texas,Male,Not selected,Not selected,Not selected,2
+8303,64,Texas,Male,Not selected,Not selected,Not selected,5
+8310,77,Michigan,Female,Not selected,Not selected,Yes,Don’t know
+8319,68,Michigan,Male,Not selected,Not selected,Not selected,
+8323,70,Florida,Male,Not selected,Not selected,Not selected,
+8332,65,Illinois,Male,Not selected,Not selected,Not selected,
+8334,64,New York,Male,Not selected,Not selected,Not selected,
+8356,51,North Carolina,Female,Not selected,Not selected,Not selected,
+8360,68,Pennsylvania,Female,Not selected,Not selected,Not selected,Don’t know
+8377,67,Florida,Male,Not selected,Not selected,Not selected,5
+8396,74,Connecticut,Male,Not selected,Not selected,Not selected,
+8405,67,Indiana,Female,Not selected,Not selected,Not selected,1
+8411,56,Rhode Island,Male,Not selected,Not selected,Not selected,1
+8414,53,Illinois,Female,Not selected,Not selected,Not selected,2
+8420,67,New York,Female,Not selected,Not selected,Not selected,2
+8422,67,Florida,Male,Not selected,Not selected,Not selected,1
+8434,58,Massachusetts,Female,Not selected,Not selected,Not selected,Don’t know
+8440,60,Connecticut,Female,Not selected,Not selected,Not selected,Don’t know
+8447,66,Connecticut,Female,Not selected,Not selected,Not selected,1
+8450,58,Missouri,Female,Not selected,Not selected,Not selected,1
+8472,60,Florida,Female,Not selected,Not selected,Not selected,
+8481,52,Tennessee,Female,Not selected,Not selected,Not selected,5
+8486,76,Ohio,Female,Not selected,Not selected,Not selected,5
+8490,83,New Hampshire,Female,Not selected,Not selected,Not selected,Don’t know
+8491,58,Wisconsin,Female,Not selected,Not selected,Not selected,1
+8520,63,California,Female,Not selected,Not selected,Not selected,1
+8523,40,Missouri,Female,Not selected,Not selected,Not selected,Don’t know
+8535,61,Maryland,Female,Not selected,Not selected,Not selected,
+8545,60,Oklahoma,Male,Not selected,Not selected,Not selected,5
+8546,59,Illinois,Female,Not selected,Not selected,Not selected,
+8550,45,North Carolina,Female,Not selected,Not selected,Not selected,
+8551,51,Washington,Female,Not selected,Not selected,Not selected,2
+8564,63,Georgia,Female,Not selected,Not selected,Not selected,
+8567,49,Florida,Female,Not selected,Not selected,Not selected,1
+8576,64,Mississippi,Male,Not selected,Not selected,Not selected,1
+8584,55,South Carolina,Female,Not selected,Not selected,Not selected,1
+8599,51,Washington,Female,Not selected,Yes,Yes,1
+8602,60,North Carolina,Female,Not selected,Not selected,Not selected,Don’t know
+8606,42,Wisconsin,Female,Not selected,Not selected,Not selected,
+8607,51,New Jersey,Female,Not selected,Not selected,Not selected,
+8614,56,California,Male,Not selected,Not selected,Not selected,1
+8621,46,Michigan,Female,Not selected,Not selected,Not selected,1
+8622,60,Texas,Female,Not selected,Not selected,Not selected,1
+8646,58,Arizona,Male,Not selected,Not selected,Not selected,1
+8650,42,Washington,Female,Not selected,Not selected,Yes,Don’t know
+8669,73,Utah,Male,Not selected,Not selected,Not selected,
+8680,73,Kentucky,Female,Not selected,Not selected,Not selected,1
+8686,72,Virginia,Male,Not selected,Not selected,Not selected,
+8689,50,New York,Male,Not selected,Not selected,Not selected,5
+8710,71,North Carolina,Female,Not selected,Not selected,Not selected,Don’t know
+8724,32,Illinois,Male,Not selected,Not selected,Not selected,5
+8742,63,New York,Female,Not selected,Not selected,Not selected,
+8767,72,New Jersey,Female,Not selected,Not selected,Not selected,3
+8778,54,Virginia,Male,Not selected,Not selected,Not selected,1
+8782,48,Pennsylvania,Female,Not selected,Not selected,Not selected,
+8793,23,Utah,Female,Not selected,Not selected,Not selected,2
+8809,29,Michigan,Female,Not selected,Not selected,Not selected,1
+8810,50,Michigan,Male,Not selected,Not selected,Not selected,
+8819,47,New Hampshire,Female,Not selected,Not selected,Not selected,1
+8823,55,Washington,Female,Not selected,Not selected,Not selected,
+8828,55,Georgia,Female,Not selected,Not selected,Not selected,1
+8838,57,Texas,Female,Not selected,Not selected,Not selected,1
+8842,65,Alabama,Male,Not selected,Yes,Yes,1
+8855,67,California,Male,Not selected,Not selected,Not selected,
+8865,47,Maryland,Male,Not selected,Not selected,Not selected,
+8876,66,California,Female,Not selected,Not selected,Not selected,
+8883,25,Illinois,Male,Not selected,Not selected,Not selected,1
+8887,61,Montana,Female,Not selected,Not selected,Not selected,1
+8898,62,Michigan,Female,Not selected,Not selected,Not selected,2
+8910,45,Washington,Female,Not selected,Not selected,Not selected,
+8918,67,New York,Female,Not selected,Not selected,Not selected,
+8919,42,California,Male,Not selected,Not selected,Not selected,
+8935,59,New York,Female,Not selected,Yes,Not selected,1
+8944,27,Illinois,Male,Not selected,Not selected,Not selected,
+8956,51,California,Female,Not selected,Not selected,Not selected,
+8976,63,New Jersey,Male,Not selected,Not selected,Not selected,
+8981,44,New York,Female,Not selected,Not selected,Not selected,1
+8992,58,North Carolina,Male,Not selected,Not selected,Not selected,
+8997,69,Maryland,Male,Not selected,Not selected,Not selected,1
+8999,76,New York,Male,Not selected,Not selected,Not selected,1
+9022,38,South Carolina,Female,Not selected,Not selected,Yes,3
+9023,62,Texas,Male,Not selected,Not selected,Not selected,
+9027,53,Minnesota,Male,Not selected,Not selected,Not selected,
+9039,44,Colorado,Male,Not selected,Not selected,Not selected,Don’t know
+9040,56,Missouri,Male,Not selected,Not selected,Not selected,5
+9042,36,Texas,Male,Not selected,Not selected,Not selected,
+9051,57,New Jersey,Male,Not selected,Not selected,Not selected,1
+9076,26,Maryland,Male,Not selected,Not selected,Not selected,
+9085,17,California,Female,Not selected,Not selected,Not selected,1
+9089,61,Washington,Male,Not selected,Not selected,Not selected,
+9090,67,Illinois,Female,Not selected,Not selected,Not selected,Don’t know
+9091,75,Florida,Male,Not selected,Not selected,Not selected,
+9092,46,Ohio,Female,Not selected,Not selected,Not selected,
+9104,51,Texas,Female,Not selected,Not selected,Not selected,1
+9111,33,New Jersey,Female,Not selected,Not selected,Not selected,2
+9120,64,North Dakota,Female,Not selected,Not selected,Not selected,1
+9123,52,Hawaii,Female,Not selected,Not selected,Not selected,1
+9142,58,Tennessee,Female,Not selected,Not selected,Not selected,
+9143,45,California,Female,Not selected,Not selected,Not selected,4
+9145,75,Indiana,Female,Not selected,Not selected,Yes,1
+9170,66,New Jersey,Female,Not selected,Not selected,Not selected,Don’t know
+9175,55,New York,Female,Not selected,Not selected,Not selected,1
+9181,46,Ohio,Female,Not selected,Not selected,Not selected,
+9183,76,Michigan,Male,Not selected,Not selected,Not selected,2
+9207,83,Missouri,Female,Not selected,Not selected,Not selected,Don’t know
+9217,54,Nebraska,Male,Not selected,Not selected,Not selected,1
+9223,33,Georgia,Female,Not selected,Not selected,Not selected,2
+9226,72,New York,Male,Not selected,Not selected,Not selected,
+9233,70,Iowa,Female,Not selected,Not selected,Not selected,
+9238,76,Nebraska,Female,Not selected,Not selected,Not selected,
+9250,69,North Carolina,Male,Not selected,Not selected,Not selected,1
+9244,60,Wisconsin,Female,Not selected,Not selected,Not selected,
+9255,45,New Jersey,Female,Not selected,Not selected,Not selected,
+9257,55,Arizona,Female,Not selected,Not selected,Not selected,
+9259,66,New York,Female,Not selected,Not selected,Not selected,
+9264,60,Missouri,Female,Not selected,Not selected,Not selected,2
+9279,34,New York,Male,Not selected,Not selected,Not selected,
+9285,67,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+9291,55,Ohio,Female,Not selected,Not selected,Not selected,2
+9292,55,Minnesota,Female,Not selected,Not selected,Not selected,
+9296,46,New York,Female,Not selected,Not selected,Not selected,
+9299,66,Oregon,Male,Not selected,Not selected,Not selected,1
+9309,60,Indiana,Female,Not selected,Not selected,Not selected,1
+9320,58,New York,Male,Not selected,Not selected,Not selected,1
+9324,46,Idaho,Female,Not selected,Not selected,Not selected,Don’t know
+9333,82,Ohio,Female,Not selected,Not selected,Not selected,
+9358,38,California,Male,Not selected,Not selected,Not selected,1
+9375,75,Texas,Male,Not selected,Not selected,Not selected,1
+9391,37,Wisconsin,Female,Not selected,Not selected,Not selected,1
+9398,66,California,Male,Not selected,Not selected,Not selected,
+9402,55,Ohio,Female,Not selected,Not selected,Not selected,5
+9413,62,Maryland,Male,Not selected,Not selected,Not selected,2
+9425,54,[Not listed],Male,Not selected,Not selected,Not selected,1
+9431,49,Mississippi,Female,Not selected,Not selected,Not selected,
+9445,55,Texas,Male,Not selected,Not selected,Not selected,1
+9462,46,South Carolina,Male,Not selected,Not selected,Not selected,
+9487,40,California,Female,Not selected,Not selected,Not selected,
+9537,39,Georgia,Male,Not selected,Not selected,Not selected,
+9540,31,Oklahoma,Male,Not selected,Not selected,Not selected,
+9544,24,Pennsylvania,Male,Not selected,Not selected,Not selected,
+9547,55,Massachusetts,Male,Not selected,Not selected,Not selected,
+9556,30,Michigan,Male,Not selected,Not selected,Not selected,2
+9561,41,Georgia,Male,Not selected,Not selected,Not selected,1
+9566,41,Massachusetts,Female,Not selected,Not selected,Not selected,1
+9570,45,Tennessee,Male,Not selected,Not selected,Not selected,
+9576,21,Florida,Male,Not selected,Not selected,Not selected,
+9577,26,Massachusetts,Male,Not selected,Not selected,Not selected,
+9578,31,Arizona,Female,Not selected,Not selected,Not selected,
+9587,64,Louisiana,Male,Not selected,Not selected,Not selected,
+9591,30,Michigan,Female,Not selected,Not selected,Not selected,1
+9592,48,Georgia,Female,Not selected,Not selected,Not selected,2
+9608,32,California,Female,Not selected,Not selected,Not selected,
+9610,44,Florida,Male,Not selected,Not selected,Not selected,2
+9614,61,New Mexico,Male,Not selected,Not selected,Not selected,2
+9620,24,Florida,Female,Not selected,Not selected,Not selected,
+9626,62,New York,Male,Not selected,Not selected,Not selected,Don’t know
+9631,61,Pennsylvania,Male,Not selected,Not selected,Not selected,1
+9634,42,Massachusetts,Male,Not selected,Not selected,Not selected,
+9635,25,New Jersey,Female,Not selected,Not selected,Not selected,5
+9640,63,Nevada,Male,Not selected,Not selected,Not selected,
+9647,72,California,Female,Not selected,Not selected,Not selected,Don’t know
+9655,42,North Carolina,Male,Not selected,Not selected,Not selected,1
+9663,57,Texas,Male,Not selected,Not selected,Not selected,
+9666,59,Michigan,Male,Not selected,Not selected,Not selected,Don’t know
+9667,27,Florida,Male,Not selected,Not selected,Not selected,
+9675,21,California,Female,Not selected,Not selected,Yes,3
+9677,45,North Carolina,Female,Not selected,Not selected,Not selected,
+9678,57,Louisiana,Male,Not selected,Not selected,Not selected,1
+9690,40,Oregon,Female,Not selected,Not selected,Not selected,1
+9692,24,South Dakota,Male,Not selected,Not selected,Not selected,
+9703,37,Washington,Female,Not selected,Not selected,Not selected,1
+9705,27,Pennsylvania,Male,Not selected,Not selected,Not selected,
+9709,26,District of Columbia,Female,Not selected,Not selected,Yes,1
+9714,49,New York,Male,Not selected,Not selected,Not selected,Don’t know
+9730,62,Virginia,Male,Not selected,Not selected,Not selected,
+9733,22,Massachusetts,Male,Not selected,Not selected,Not selected,1
+9743,39,Georgia,Female,Not selected,Not selected,Not selected,
+9746,21,California,Male,Not selected,Not selected,Not selected,
+9750,40,Massachusetts,Female,Not selected,Not selected,Not selected,1
+9757,57,Ohio,Female,Not selected,Not selected,Yes,3
+9759,48,Pennsylvania,Female,Not selected,Not selected,Not selected,
+9762,51,Texas,Female,Not selected,Not selected,Not selected,2
+9765,52,Florida,Female,Not selected,Not selected,Not selected,2
+9767,65,California,Male,Not selected,Not selected,Not selected,
+9773,71,Illinois,Female,Not selected,Not selected,Not selected,
+9774,44,California,Female,Not selected,Not selected,Not selected,
+9779,55,Illinois,Male,Not selected,Not selected,Not selected,1
+9784,36,Colorado,Male,Not selected,Not selected,Not selected,2
+9792,21,Connecticut,Female,Not selected,Not selected,Not selected,1
+9795,44,New Hampshire,Male,Not selected,Not selected,Not selected,1
+9798,48,Pennsylvania,Male,Not selected,Not selected,Not selected,2
+9809,38,Arkansas,Female,Not selected,Not selected,Not selected,2
+9812,50,Michigan,Female,Not selected,Not selected,Not selected,
+9821,48,Ohio,Male,Not selected,Not selected,Not selected,
+9828,60,Indiana,Female,Not selected,Not selected,Not selected,1
+9844,45,Florida,Female,Not selected,Not selected,Not selected,1
+9872,47,Idaho,Female,Not selected,Not selected,Not selected,Don’t know
+9875,41,Michigan,Female,Not selected,Not selected,Not selected,
+9879,58,California,Male,Not selected,Not selected,Not selected,
+9888,40,Maine,Male,Not selected,Not selected,Not selected,
+9890,47,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+9896,44,Pennsylvania,Female,Not selected,Not selected,Not selected,
+9901,47,New York,Female,Not selected,Not selected,Not selected,1
+9910,44,Massachusetts,Female,Not selected,Not selected,Not selected,5
+9916,75,New York,Female,Not selected,Not selected,Not selected,
+9924,47,Arkansas,Female,Not selected,Yes,Yes,1
+9928,39,Missouri,Female,Not selected,Yes,Yes,1
+9938,63,Missouri,Female,Not selected,Not selected,Not selected,3
+9949,44,North Carolina,Female,Not selected,Not selected,Not selected,Don’t know
+9962,44,Washington,Female,Not selected,Not selected,Not selected,
+9968,42,Idaho,Female,Not selected,Not selected,Not selected,
+9980,30,West Virginia,Female,Not selected,Not selected,Not selected,
+9984,33,Indiana,Female,Not selected,Not selected,Yes,1
+9985,34,California,Female,Not selected,Not selected,Not selected,
+9989,53,Oregon,Female,Not selected,Not selected,Not selected,1
+9993,35,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+10005,38,Michigan,Female,Not selected,Not selected,Not selected,
+10007,42,New Jersey,Female,Not selected,Not selected,Not selected,1
+10009,31,Pennsylvania,Female,Not selected,Not selected,Not selected,
+10012,26,Maryland,Female,Not selected,Not selected,Not selected,2
+10017,38,Missouri,Male,Not selected,Yes,Not selected,1
+10019,56,California,Male,Not selected,Not selected,Not selected,2
+10023,35,North Carolina,Female,Not selected,Not selected,Not selected,
+10028,62,Florida,Male,Not selected,Not selected,Not selected,2
+10029,68,Missouri,Female,Not selected,Not selected,Not selected,1
+10036,70,California,Male,Not selected,Not selected,Not selected,
+10040,51,Connecticut,Female,Yes,Not selected,Not selected,3
+10045,55,New York,Female,Not selected,Not selected,Not selected,5
+10051,70,Virginia,Female,Not selected,Not selected,Not selected,1
+10057,77,Florida,Female,Not selected,Not selected,Not selected,5
+10074,73,California,Female,Not selected,Not selected,Not selected,
+10077,67,Washington,Male,Not selected,Not selected,Not selected,
+10099,42,New York,Female,Not selected,Not selected,Not selected,
+10100,46,California,Female,Not selected,Not selected,Not selected,1
+10102,74,Illinois,Female,Not selected,Yes,Yes,1
+10110,63,New York,Male,Not selected,Not selected,Not selected,5
+10115,78,Pennsylvania,Female,Not selected,Not selected,Not selected,
+10122,31,Pennsylvania,Female,Not selected,Not selected,Not selected,1
+10127,63,Texas,Female,Not selected,Not selected,Not selected,1
+10139,66,California,Female,Not selected,Not selected,Not selected,1
+10161,20,California,Female,Not selected,Not selected,Not selected,
+10164,58,California,Female,Not selected,Not selected,Not selected,Don’t know
+10176,78,Missouri,Female,Not selected,Not selected,Not selected,
+10184,63,Virginia,Female,Not selected,Not selected,Not selected,
+10188,66,Louisiana,Female,Not selected,Not selected,Not selected,Don’t know
+10193,37,Tennessee,Female,Not selected,Not selected,Yes,Don’t know
+10196,58,Georgia,Male,Not selected,Not selected,Not selected,2
+10211,48,New York,Female,Not selected,Yes,Not selected,4
+10219,47,Ohio,Female,Not selected,Not selected,Not selected,
+10224,74,New York,Female,Not selected,Not selected,Not selected,Don’t know
+10229,72,California,Female,Not selected,Not selected,Not selected,
+10230,65,New Jersey,Male,Not selected,Not selected,Not selected,1
+10233,56,Louisiana,Female,Not selected,Not selected,Not selected,
+10240,76,Ohio,Male,Not selected,Not selected,Not selected,1
+10241,72,Georgia,Male,Not selected,Not selected,Not selected,
+10250,62,Oregon,Female,Not selected,Not selected,Yes,1
+10257,38,Montana,Female,Not selected,Not selected,Not selected,Don’t know
+10265,62,Arizona,Female,Not selected,Not selected,Not selected,1
+10270,39,New York,Female,Not selected,Not selected,Not selected,
+10279,65,Texas,Male,Not selected,Not selected,Not selected,
+10284,74,California,Female,Not selected,Not selected,Not selected,
+10285,73,Utah,Female,Not selected,Not selected,Not selected,1
+10288,72,Iowa,Female,Not selected,Not selected,Not selected,Don’t know
+10289,66,Pennsylvania,Female,Not selected,Not selected,Not selected,5
+10300,69,Florida,Male,Not selected,Not selected,Not selected,
+10303,73,Arizona,Male,Not selected,Not selected,Not selected,Don’t know
+10307,38,Massachusetts,Female,Not selected,Not selected,Not selected,5
+10308,81,Kansas,Male,Not selected,Not selected,Not selected,
+10309,67,Illinois,Male,Not selected,Not selected,Not selected,1
+10312,64,Arkansas,Female,Not selected,Not selected,Not selected,
+10314,64,Oklahoma,Male,Not selected,Not selected,Not selected,
+10326,46,North Carolina,Male,Not selected,Not selected,Not selected,Don’t know
+10335,65,Alabama,Female,Not selected,Not selected,Not selected,Don’t know
+10340,32,West Virginia,Female,Not selected,Not selected,Not selected,
+10352,53,California,Female,Not selected,Not selected,Not selected,1
+10355,53,Ohio,Female,Not selected,Not selected,Not selected,
+10361,30,Arizona,Female,Not selected,Not selected,Not selected,
+10364,65,Florida,Female,Not selected,Not selected,Not selected,
+10369,70,Texas,Female,Not selected,Not selected,Not selected,Don’t know
+10370,35,Washington,Male,Not selected,Yes,Not selected,2
+10387,66,Georgia,Female,Not selected,Not selected,Not selected,
+10400,48,Washington,Female,Not selected,Not selected,Not selected,
+10402,70,Washington,Male,Not selected,Not selected,Not selected,2
+10429,39,California,Female,Not selected,Not selected,Not selected,
+10435,70,California,Female,Not selected,Not selected,Not selected,Don’t know
+10436,72,Florida,Female,Not selected,Not selected,Not selected,
+10439,68,California,Male,Not selected,Not selected,Not selected,2
+10443,64,Florida,Female,Not selected,Not selected,Not selected,1
+10474,32,Illinois,Male,Not selected,Not selected,Not selected,1
+10476,71,Michigan,Male,Not selected,Not selected,Not selected,Don’t know
+10483,64,Wisconsin,Female,Not selected,Not selected,Not selected,Don’t know
+10488,72,New York,Female,Not selected,Not selected,Not selected,Don’t know
+10490,57,Washington,Female,Not selected,Not selected,Not selected,Don’t know
+10492,29,Arizona,Female,Not selected,Not selected,Not selected,1
+10495,63,Texas,Female,Not selected,Not selected,Not selected,2
+10508,67,New Jersey,Female,Not selected,Yes,Not selected,Don’t know
+10509,59,California,Male,Not selected,Not selected,Not selected,1
+10516,76,Massachusetts,Male,Not selected,Not selected,Not selected,2
+10527,79,Minnesota,Male,Not selected,Not selected,Not selected,
+10535,70,Arizona,Female,Not selected,Yes,Not selected,1
+10543,82,Georgia,Male,Not selected,Not selected,Not selected,
+10560,80,Mississippi,Female,Not selected,Not selected,Not selected,Don’t know
+10563,68,California,Male,Not selected,Not selected,Not selected,1
+10572,68,California,Male,Not selected,Not selected,Not selected,Don’t know
+10574,39,Virginia,Female,Not selected,Not selected,Not selected,1
+10580,57,California,Female,Not selected,Not selected,Not selected,1
+10581,48,Tennessee,Female,Not selected,Not selected,Not selected,
+10582,45,Texas,Female,Not selected,Not selected,Yes,1
+10588,57,Tennessee,Female,Not selected,Not selected,Not selected,
+10599,82,Pennsylvania,Female,Not selected,Not selected,Not selected,Don’t know
+10601,27,Nevada,Female,Not selected,Not selected,Yes,1
+10606,73,New York,Male,Not selected,Not selected,Not selected,
+10608,48,Oregon,Female,Not selected,Not selected,Not selected,
+10627,30,Florida,Female,Not selected,Not selected,Not selected,
+10649,54,North Carolina,Female,Not selected,Not selected,Not selected,
+10679,66,Connecticut,Female,Not selected,Not selected,Not selected,
+10680,36,Wisconsin,Female,Not selected,Not selected,Not selected,2
+10683,81,North Carolina,Female,Not selected,Not selected,Not selected,
+10689,89,Massachusetts,Female,Not selected,Not selected,Not selected,4
+10690,70,Ohio,Female,Not selected,Not selected,Not selected,1
+10693,65,Maryland,Female,Not selected,Yes,Not selected,2
+10703,56,Maryland,Female,Not selected,Not selected,Not selected,
+10711,40,Arkansas,Female,Not selected,Not selected,Not selected,1
+10716,43,New York,Male,Not selected,Not selected,Not selected,2
+10719,60,California,Female,Not selected,Not selected,Not selected,Don’t know
+10726,26,Nebraska,Female,Not selected,Not selected,Not selected,1
+10749,46,Ohio,Female,Not selected,Not selected,Not selected,1
+10752,46,Oregon,Male,Not selected,Not selected,Not selected,1
+10772,36,California,Female,Not selected,Yes,Yes,1
+10774,40,New York,Male,Not selected,Not selected,Not selected,
+10780,51,New York,Female,Not selected,Not selected,Not selected,2
+10782,41,California,Female,Not selected,Not selected,Not selected,1
+10783,49,Arizona,Female,Not selected,Not selected,Not selected,2
+10787,38,District of Columbia,Female,Not selected,Not selected,Not selected,1
+10789,41,Ohio,Female,Not selected,Not selected,Not selected,
+10801,42,Wisconsin,Female,Not selected,Not selected,Not selected,Don’t know
+10802,44,Oregon,Female,Not selected,Not selected,Not selected,1
+10809,48,California,Female,Not selected,Not selected,Not selected,1
+10810,35,Arkansas,Female,Not selected,Not selected,Not selected,
+10817,65,California,Female,Not selected,Not selected,Not selected,Don’t know
+10829,38,Ohio,Female,Not selected,Yes,Yes,2
+10831,37,Georgia,Male,Not selected,Not selected,Not selected,1
+10834,44,Illinois,Female,Not selected,Not selected,Not selected,
+10837,38,Wyoming,Female,Not selected,Yes,Yes,2
+10847,25,North Dakota,Female,Not selected,Not selected,Not selected,
+10851,33,Arkansas,Female,Not selected,Not selected,Not selected,2
+10854,45,South Carolina,Female,Not selected,Not selected,Not selected,
+10855,40,Ohio,Female,Not selected,Not selected,Yes,1
+10858,35,Illinois,Female,Not selected,Not selected,Not selected,
+10859,61,Tennessee,Female,Not selected,Not selected,Not selected,1
+10860,33,New York,Female,Not selected,Not selected,Not selected,
+10865,62,Virginia,Female,Not selected,Not selected,Not selected,
+10867,46,Oregon,Female,Not selected,Not selected,Not selected,
+10874,42,Colorado,Female,Not selected,Not selected,Not selected,1
+10877,38,Georgia,Female,Not selected,Not selected,Not selected,3
+10884,63,Nevada,Female,Not selected,Not selected,Not selected,1
+10886,40,California,Male,Not selected,Not selected,Not selected,4
+10887,35,Hawaii,Male,Not selected,Not selected,Not selected,1
+10896,39,New York,Female,Not selected,Not selected,Not selected,
+10905,33,California,Female,Not selected,Not selected,Not selected,1
+10907,41,Illinois,Female,Not selected,Not selected,Yes,1
+10928,32,Washington,Female,Not selected,Not selected,Not selected,1
+10937,62,Kentucky,Female,Not selected,Not selected,Not selected,2
+10946,29,California,Female,Not selected,Not selected,Not selected,
+10956,59,California,Female,Not selected,Not selected,Not selected,
+10957,41,Oregon,Female,Not selected,Not selected,Not selected,1
+10959,35,California,Male,Not selected,Not selected,Not selected,1
+10962,33,California,Female,Not selected,Not selected,Not selected,1
+10964,47,Ohio,Male,Not selected,Not selected,Not selected,
+10969,44,Montana,Female,Not selected,Not selected,Not selected,
+10974,39,Louisiana,Female,Not selected,Not selected,Not selected,Don’t know
+10982,47,Delaware,Male,Not selected,Not selected,Not selected,1
+10984,37,Arizona,Male,Not selected,Not selected,Not selected,3
+10988,49,Washington,Female,Not selected,Not selected,Not selected,1
+11001,47,California,Male,Not selected,Not selected,Not selected,1
+11002,48,New Jersey,Female,Not selected,Not selected,Not selected,
+11007,46,Massachusetts,Female,Not selected,Not selected,Not selected,1
+11023,37,Michigan,Female,Not selected,Not selected,Not selected,1
+11026,46,Illinois,Female,Not selected,Not selected,Not selected,
+11028,22,New York,Female,Not selected,Not selected,Not selected,1
+11029,48,Florida,Female,Not selected,Not selected,Not selected,2
+11038,39,California,Female,Not selected,Not selected,Not selected,2
+11045,48,Massachusetts,Female,Not selected,Not selected,Not selected,4
+11047,55,Illinois,Female,Not selected,Not selected,Not selected,
+11054,35,California,Male,Not selected,Not selected,Not selected,Don’t know
+11056,43,California,Female,Not selected,Not selected,Yes,2
+11069,41,Florida,Female,Not selected,Not selected,Yes,1
+11074,39,Vermont,Male,Not selected,Not selected,Not selected,1
+11077,41,Florida,Female,Not selected,Not selected,Not selected,2
+11094,26,Alabama,Female,Yes,Not selected,Not selected,2
+11096,35,Missouri,Female,Not selected,Not selected,Not selected,2
+11099,27,Colorado,Female,Not selected,Not selected,Not selected,1
+11101,49,Hawaii,Male,Not selected,Not selected,Not selected,1
+11103,58,Minnesota,Male,Not selected,Not selected,Not selected,
+11124,61,North Carolina,Female,Not selected,Not selected,Not selected,
+11127,47,New York,Female,Not selected,Not selected,Not selected,
+11136,30,Connecticut,Female,Not selected,Not selected,Not selected,
+11139,36,Virginia,Female,Not selected,Not selected,Yes,2
+11142,32,Illinois,Male,Not selected,Not selected,Not selected,2
+11156,36,New Jersey,Male,Not selected,Not selected,Not selected,
+11175,46,Virginia,Female,Not selected,Not selected,Not selected,
+11179,30,Kentucky,Male,Not selected,Not selected,Not selected,
+11185,19,California,Female,Not selected,Not selected,Not selected,Don’t know
+11211,35,District of Columbia,Male,Not selected,Not selected,Not selected,
+11214,27,Colorado,Female,Not selected,Not selected,Not selected,
+11224,31,Wisconsin,Female,Not selected,Not selected,Not selected,
+11234,38,Ohio,Female,Not selected,Not selected,Not selected,
+11236,46,New Jersey,Female,Not selected,Not selected,Not selected,1
+11238,40,California,Female,Not selected,Not selected,Not selected,
+11251,47,Ohio,Female,Not selected,Yes,Not selected,1
+11257,33,Pennsylvania,Female,Not selected,Not selected,Not selected,
+11258,44,Arizona,Male,Not selected,Not selected,Not selected,2
+11264,33,Oregon,Female,Not selected,Not selected,Not selected,
+11274,45,Ohio,Female,Not selected,Not selected,Not selected,
+11269,38,Pennsylvania,Male,Not selected,Not selected,Not selected,
+11270,47,West Virginia,Female,Not selected,Not selected,Not selected,Don’t know
+11272,56,New Jersey,Female,Not selected,Not selected,Not selected,Don’t know
+11279,45,North Carolina,Female,Not selected,Yes,Yes,1
+11285,38,Massachusetts,Female,Not selected,Not selected,Not selected,1
+11286,38,Alabama,Female,Not selected,Not selected,Not selected,2
+11290,23,Georgia,Female,Not selected,Not selected,Not selected,3
+11299,32,Michigan,Female,Not selected,Not selected,Not selected,2
+11301,42,New York,Female,Not selected,Not selected,Not selected,
+11309,38,New York,Female,Not selected,Not selected,Not selected,
+11310,57,Nevada,Female,Not selected,Not selected,Not selected,
+11314,49,Washington,Male,Not selected,Not selected,Not selected,3
+11317,40,Massachusetts,Female,Not selected,Not selected,Not selected,2
+11320,48,Arizona,Male,Not selected,Not selected,Not selected,Don’t know
+11329,44,Florida,Female,Not selected,Not selected,Not selected,
+11331,28,Massachusetts,Male,Not selected,Not selected,Not selected,
+11333,48,Arizona,Female,Not selected,Not selected,Not selected,2
+11334,47,Illinois,Female,Not selected,Not selected,Not selected,2
+11340,48,Washington,Female,Not selected,Not selected,Not selected,
+11345,45,Florida,Female,Not selected,Not selected,Not selected,1
+11349,44,New York,Female,Not selected,Not selected,Not selected,Don’t know
+11352,50,Florida,Female,Not selected,Not selected,Not selected,1
+11361,47,Washington,Male,Not selected,Not selected,Not selected,5
+11384,31,California,Female,Not selected,Not selected,Not selected,2
+11394,46,Washington,Female,Not selected,Not selected,Not selected,1
+11395,41,Pennsylvania,Female,Not selected,Not selected,Not selected,3
+11412,44,Arizona,Male,Not selected,Not selected,Not selected,2
+11421,60,Georgia,Female,Not selected,Not selected,Not selected,
+11422,54,New York,Female,Not selected,Not selected,Not selected,
+11434,23,Michigan,Female,Not selected,Yes,Not selected,2
+11436,30,Washington,Female,Not selected,Not selected,Not selected,1
+11442,37,North Carolina,Male,Not selected,Not selected,Not selected,
+11459,18,Colorado,Female,Not selected,Not selected,Not selected,2
+11474,62,Oregon,Female,Not selected,Not selected,Not selected,Don’t know
+11479,30,California,Female,Not selected,Not selected,Not selected,1
+11483,57,California,Female,Not selected,Yes,Not selected,1
+11491,63,Connecticut,Female,Not selected,Not selected,Not selected,Don’t know
+11494,34,Wisconsin,Female,Not selected,Not selected,Not selected,
+11499,50,Louisiana,Male,Not selected,Not selected,Not selected,
+11512,42,Georgia,Male,Not selected,Not selected,Not selected,1
+11517,33,Oklahoma,Female,Not selected,Not selected,Not selected,1
+11521,62,Virginia,Female,Not selected,Not selected,Not selected,
+11527,49,Pennsylvania,Male,Not selected,Not selected,Not selected,
+11532,39,Washington,Female,Not selected,Not selected,Not selected,1
+11533,51,Michigan,Female,Not selected,Not selected,Not selected,Don’t know
+11534,51,Washington,Female,Not selected,Not selected,Not selected,
+11536,52,California,Female,Not selected,Not selected,Not selected,2
+11539,48,Colorado,Male,Not selected,Not selected,Not selected,
+11559,32,Wisconsin,Female,Not selected,Not selected,Not selected,
+11560,57,New York,Male,Not selected,Yes,Yes,2
+11561,58,Illinois,Female,Not selected,Not selected,Not selected,1
+11564,33,Alabama,Female,Not selected,Not selected,Not selected,
+11571,25,Virginia,Female,Not selected,Not selected,Not selected,1
+11578,40,Arizona,Female,Not selected,Not selected,Not selected,Don’t know
+11590,62,Washington,Female,Not selected,Not selected,Not selected,Don’t know
+11598,48,Texas,Male,Not selected,Not selected,Not selected,5
+11603,22,Oregon,Female,Not selected,Not selected,Not selected,
+11611,32,New York,Female,Not selected,Not selected,Not selected,Don’t know
+11630,30,Michigan,Male,Not selected,Not selected,Not selected,
+11635,51,Nevada,Male,Not selected,Not selected,Not selected,5
+11649,23,New York,Female,Not selected,Not selected,Not selected,1
+11653,55,California,Male,Not selected,Not selected,Not selected,
+11654,34,Arizona,Female,Not selected,Not selected,Not selected,1
+11666,30,Washington,Female,Not selected,Not selected,Not selected,
+11673,57,Washington,Male,Not selected,Not selected,Not selected,
+11675,40,California,Male,Not selected,Not selected,Not selected,Don’t know
+11677,36,New York,Female,Not selected,Not selected,Not selected,3
+11679,55,Hawaii,Male,Not selected,Not selected,Not selected,
+11691,40,New York,Female,Not selected,Not selected,Not selected,
+11694,29,Arizona,Female,Not selected,Not selected,Not selected,1
+11702,35,Maryland,Female,Not selected,Not selected,Not selected,4
+11703,41,Arkansas,Female,Not selected,Not selected,Not selected,
+11719,29,Missouri,Female,Not selected,Not selected,Not selected,2
+11720,35,Ohio,Female,Not selected,Not selected,Not selected,
+11721,38,Illinois,Female,Not selected,Not selected,Not selected,
+11743,41,Iowa,Male,Not selected,Not selected,Not selected,1
+11747,39,New York,Female,Not selected,Not selected,Not selected,2
+11748,45,New Jersey,Female,Not selected,Not selected,Not selected,
+11763,30,Vermont,Female,Not selected,Not selected,Not selected,
+11764,51,North Carolina,Male,Not selected,Not selected,Not selected,1
+11772,57,Texas,Male,Not selected,Not selected,Not selected,Don’t know
+11780,26,New York,Female,Not selected,Yes,Yes,Don’t know
+11782,63,Oregon,Male,Not selected,Not selected,Not selected,1
+11783,30,New Jersey,Male,Not selected,Not selected,Not selected,1
+11789,32,Michigan,Female,Not selected,Not selected,Not selected,2
+11791,37,Florida,Female,Not selected,Not selected,Not selected,4
+11794,57,California,Male,Not selected,Yes,Not selected,5
+11798,36,Ohio,Male,Not selected,Not selected,Not selected,1
+11805,32,Texas,Female,Not selected,Not selected,Not selected,
+11806,28,New Jersey,Female,Not selected,Yes,Yes,1
+11814,37,Texas,Male,Not selected,Not selected,Not selected,1
+11817,24,Pennsylvania,Female,Not selected,Yes,Not selected,2
+11829,23,Illinois,Female,Not selected,Not selected,Not selected,2
+11845,35,Missouri,Female,Not selected,Not selected,Not selected,
+11847,49,California,Female,Not selected,Not selected,Not selected,
+11866,33,Michigan,Female,Not selected,Not selected,Not selected,1
+11869,41,California,Male,Not selected,Not selected,Not selected,
+11876,42,Arizona,Male,Not selected,Not selected,Not selected,Don’t know
+11888,31,Illinois,Female,Not selected,Not selected,Not selected,
+11889,32,California,Female,Not selected,Yes,Yes,4
+11892,44,New Mexico,Male,Not selected,Not selected,Not selected,2
+11893,69,Virginia,Female,Not selected,Not selected,Not selected,
+11898,38,Michigan,Male,Not selected,Not selected,Not selected,1
+11905,29,New York,Female,Not selected,Not selected,Not selected,1
+11906,39,Michigan,Female,Not selected,Not selected,Not selected,1
+11908,47,California,Male,Not selected,Not selected,Not selected,Don’t know
+11909,34,Washington,Male,Not selected,Not selected,Not selected,
+11910,38,California,Female,Not selected,Not selected,Not selected,
+11917,64,Florida,Male,Not selected,Not selected,Not selected,
+11918,49,Georgia,Female,Not selected,Not selected,Not selected,1
+11935,74,California,Female,Not selected,Not selected,Not selected,1
+11937,59,California,Male,Not selected,Not selected,Not selected,1
+11942,32,California,Female,Not selected,Not selected,Not selected,
+11943,24,Ohio,Female,Not selected,Not selected,Not selected,
+11954,42,Pennsylvania,Male,Not selected,Not selected,Not selected,
+11955,53,Florida,Male,Not selected,Not selected,Not selected,3
+11957,47,Pennsylvania,Male,Not selected,Not selected,Not selected,2
+11959,51,Alabama,Male,Not selected,Not selected,Not selected,1
+11969,23,Missouri,Female,Not selected,Not selected,Not selected,1
+11971,55,Florida,Male,Not selected,Not selected,Not selected,
+11973,64,Massachusetts,Male,Not selected,Not selected,Not selected,
+11975,41,Georgia,Male,Not selected,Not selected,Not selected,
+11981,33,Indiana,Female,Not selected,Not selected,Not selected,1
+11985,64,Pennsylvania,Male,Not selected,Not selected,Not selected,5
+11991,33,California,Female,Not selected,Not selected,Not selected,1
+12001,45,Maryland,Male,Not selected,Not selected,Not selected,
+12004,51,New Mexico,Male,Not selected,Not selected,Not selected,5
+12005,47,Rhode Island,Male,Not selected,Not selected,Not selected,1
+12020,31,New York,Female,Not selected,Not selected,Not selected,
+12027,30,Kansas,Female,Not selected,Not selected,Not selected,4
+12032,43,Florida,Male,Not selected,Not selected,Not selected,
+12044,36,Georgia,Male,Not selected,Not selected,Not selected,Don’t know
+12048,48,California,Male,Not selected,Not selected,Not selected,1
+12050,59,New York,Male,Not selected,Not selected,Not selected,
+12055,61,Michigan,Male,Not selected,Not selected,Not selected,
+12063,23,Wisconsin,Female,Not selected,Not selected,Not selected,1
+12071,49,California,Male,Not selected,Not selected,Not selected,
+12082,28,Maryland,Male,Not selected,Yes,Yes,2
+12083,43,Colorado,Male,Not selected,Not selected,Not selected,3
+12090,28,Massachusetts,Male,Not selected,Not selected,Not selected,
+12104,52,Illinois,Female,Not selected,Not selected,Not selected,
+12105,37,Texas,Female,Not selected,Not selected,Not selected,1
+12124,44,Louisiana,Male,Not selected,Not selected,Not selected,1
+12127,47,Michigan,Male,Not selected,Not selected,Not selected,
+12137,33,New York,Female,Not selected,Not selected,Not selected,Don’t know
+12139,35,Iowa,Female,Not selected,Not selected,Not selected,1
+12140,23,Tennessee,Male,Not selected,Not selected,Not selected,Don’t know
+12145,28,Oregon,Female,Not selected,Not selected,Not selected,1
+12149,19,Pennsylvania,Female,Not selected,Not selected,Yes,1
+12150,26,California,Female,Not selected,Not selected,Not selected,1
+12153,29,Louisiana,Female,Not selected,Not selected,Not selected,2
+12159,43,New Hampshire,Male,Not selected,Not selected,Not selected,
+12161,41,South Carolina,Female,Not selected,Not selected,Not selected,
+12171,70,Illinois,Male,Not selected,Not selected,Not selected,
+12172,38,New Jersey,Female,Not selected,Not selected,Not selected,
+12174,33,Pennsylvania,Female,Not selected,Not selected,Not selected,
+12176,43,Texas,Male,Not selected,Not selected,Not selected,5
+12178,36,Missouri,Female,Not selected,Not selected,Not selected,
+12180,49,Utah,Male,Not selected,Not selected,Not selected,3
+12185,32,New York,Female,Not selected,Not selected,Not selected,Don’t know
+12190,75,Maryland,Female,Not selected,Not selected,Not selected,1
+12194,66,California,Female,Not selected,Not selected,Not selected,
+12196,44,District of Columbia,Male,Not selected,Not selected,Not selected,
+12197,45,Oregon,Male,Not selected,Not selected,Not selected,Don’t know
+12199,36,California,Female,Not selected,Not selected,Not selected,
+12202,36,Arizona,Female,Not selected,Not selected,Not selected,1
+12229,36,Indiana,Male,Not selected,Not selected,Not selected,
+12239,30,Missouri,Male,Not selected,Not selected,Not selected,1
+12242,36,Pennsylvania,Male,Not selected,Not selected,Not selected,
+12243,34,Pennsylvania,Female,Not selected,Not selected,Not selected,2
+12258,80,Arizona,Female,Not selected,Yes,Yes,1
+12271,32,West Virginia,Female,Not selected,Not selected,Not selected,2
+12272,45,Ohio,Male,Not selected,Not selected,Not selected,1
+12273,44,New York,Male,Not selected,Not selected,Not selected,
+12274,32,Colorado,Female,Not selected,Not selected,Not selected,Don’t know
+12277,50,Illinois,Female,Not selected,Not selected,Not selected,2
+12278,24,Texas,Female,Not selected,Yes,Yes,1
+12287,52,West Virginia,Female,Not selected,Not selected,Not selected,2
+12288,60,California,Female,Not selected,Not selected,Not selected,1
+12290,41,California,Male,Not selected,Not selected,Not selected,
+12291,49,New Hampshire,Male,Not selected,Not selected,Not selected,2
+12294,50,Massachusetts,Male,Not selected,Not selected,Not selected,1
+12296,39,Hawaii,Female,Not selected,Not selected,Not selected,1
+12307,39,Oregon,Female,Not selected,Not selected,Not selected,
+12318,34,Illinois,Female,Not selected,Not selected,Not selected,
+12323,23,Florida,Male,Not selected,Not selected,Not selected,
+12333,19,Kansas,Female,Not selected,Not selected,Not selected,1
+12334,32,Maryland,Male,Yes,Not selected,Not selected,Don’t know
+12357,35,Alabama,Female,Not selected,Not selected,Not selected,3
+12368,42,New Jersey,Male,Not selected,Not selected,Not selected,
+12378,26,Illinois,Female,Not selected,Not selected,Not selected,1
+12393,41,Virginia,Male,Not selected,Not selected,Not selected,
